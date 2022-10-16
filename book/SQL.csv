@@ -1,0 +1,867 @@
+,제목,저자,출판사,출판일,가격,ISBN
+0,혼자 공부하는 SQL (1:1 과외하듯 배우는 데이터베이스 자습서),우재남,한빛미디어,20211101.0,21600,9791162244739
+1,MySQL 성능 최적화 (고성능 시스템 구축을 위한 전략과 최적화 기법),실비아 보트로스^제레미 틴리,위키북스,20220922.0,25200,9791158393656
+2,친절한 SQL 튜닝 (SQLP 핵심이론 집중 공략),조시형,디비안(주)(DBian),20180601.0,34200,9791196395704
+3,SQL 자격검정 실전문제 (국가공인 SQL전문가 국가공인 SQL개발자),한국데이터진흥원,한국데이터산업진흥원,20211015.0,16200,9788988474846
+4,이기적 SQL 개발자 이론서+기출문제 (동영상 무료 제공 & SQLD/P 핵심마인드맵),임호진^박종범^임준혁,영진닷컴,20220810.0,21600,9788931465235
+5,Real MySQL 8.0 (1권) (개발자와 DBA를 위한 MySQL 실전 가이드),백은빈^이성욱,위키북스,20210908.0,27000,9791158392703
+6,Real MySQL 8.0 (2권) (개발자와 DBA를 위한 MySQL 실전 가이드),백은빈^이성욱,위키북스,20210908.0,28800,9791158392727
+7,SQL (A Practical Introduction Guide to Learn Sql Programming Language. Learn Coding Faster with Hands-On Project. Crash Course Guide for your Computer Programming),,Jason Crash,20210225.0,45090,9781802121254
+8,"Sql (The Ultimate Guide to Programming in SQL for Beginners, with Exercises for Learning SQL Languages and the Coding, Easily and in a Short Time (Step-by-Step Guide))",,Daniel Geron,20210224.0,45090,9781801944045
+9,"Sql (The Ultimate Guide to Programming in SQL for Beginners, with Exercises for Learning SQL Languages and the Coding, Easily and in a Short Time (Step-by-Step Guide))",,Daniel Geron,20210224.0,33390,9781801943529
+10,SQL (A Practical Introduction Guide to Learn Sql Programming Language. Learn Coding Faster with Hands-On Project. Crash Course Guide for your Computer Programming),,Jason Crash,20210221.0,41740,9781802121155
+11,SQL (A Practical Introduction Guide to Learn Sql Programming Language. Learn Coding Faster with Hands-On Project. Crash Course Guide for your Computer Programming),,Jason Crash,20210220.0,30050,9781802121148
+12,"Sql (The Ultimate Guide to Programming in SQL for Beginners, with Exercises for Learning SQL Languages and the Coding, Easily and in a Short Time (Step-by-Step Guide))",,Tiger Gain Ltd,20210119.0,41740,9781914306679
+13,"Sql (The Ultimate Guide to Programming in SQL for Beginners, with Exercises for Learning SQL Languages and the Coding, Easily and in a Short Time (Step-by-Step Guide))",,Tiger Gain Ltd,20210112.0,25040,9781914306167
+14,SQL (2 books in 1 -  The Ultimate Beginner’s & Intermediate Guide to Learn SQL Programming step by step),,nelly B.L. International Consulting LTD.,20200208.0,67120,9781647710224
+15,SQL (The Ultimate Intermediate Guide to Learn SQL Programming Step by Step),,nelly B.L. International Consulting LTD.,20191205.0,48190,9781647710149
+16,SQL (A Beginner’s Guide),,Osborne/McGraw-Hill,20030501.0,47540,9780072228854
+17,모두의 SQL (누구나 쉽게 배우는 데이터 분석 기초),김도연,길벗,20180921.0,16200,9791160505771
+18,2022 유선배 SQL개발자(SQLD) 과외노트 (유튜브 선생님에게 배우는 유·선·배!),정미나,시대고시기획,20220603.0,19800,9791138310413
+19,SQL 쿡북 (모든 SQL 사용자를 위한 쿼리 완벽 가이드),앤서니 몰리나로^로버트 더그래프,한빛미디어,20220120.0,36000,9791162245125
+20,데이터베이스 SQL 프로그래밍 (MySQL 실습),홍봉희,부산대학교출판문화원,20220831.0,17100,9788973167517
+21,PHP+MySQL 입문 (예제로 배우는 백엔드 프로그래밍),황재호,인포앤북,20220125.0,24300,9791192038025
+22,"러닝 SQL (데이터 생성, 검색, 조작까지 데이터 제대로 주무르기)",앨런 볼리외,한빛미디어,20210330.0,27000,9791162244074
+23,SQL 전문가 가이드 (The Guide for SQL Professional),한국데이터베이스진흥원 편집부,한국데이터산업진흥원,20210315.0,45000,9788988474860
+24,SQL 언어,래리 락오프,성안당,20170227.0,18000,9788931554670
+25,No SQL (빅 데이터 세상으로 떠나는 간결한 안내서),프라모드 사달게이,인사이트,20130305.0,14400,9788966260706
+26,NoSQL,,Novas Edicoes Academicas,20180209.0,75760,9786202181792
+27,"MySQL (The definitive guide to using, programming, and administering MySQL 4.1 and 5.0)","Dubois, Paul",Sams,20050310.0,81720,9780672326738
+28,MySQL,"Dubois, Paul",Macmillan Computer Pub,20080516.0,81720,9780672329388
+29,MySQL (Building User Interfaces),,New Riders Publishing,20010701.0,74290,9780735710498
+30,MySQL (The Complete Reference),,Osborne/McGraw-Hill,20031201.0,68360,9780072224771
+31,SQL 첫걸음 (하루 30분 36강으로 배우는 완전 초보의 SQL 따라잡기),아사이 아츠시,한빛미디어,20151101.0,19800,9788968482311
+32,SQL 레벨업 (DB 성능 최적화를 위한 SQL 실전 가이드),미크,한빛미디어,20160130.0,21600,9788968482519
+33,"오라클 SQL (취준생과 비전공자도 쉽게 배우는, 제3판)",문성기,다올미디어,20190125.0,0,9788997587339
+34,SQL 서버의 구조,히라야마 오사무,성안당,20211115.0,17100,9788931557510
+35,SQL 기초 실습 (PLB(문제중심학습)기반),김훈기,글로벌,20190814.0,13500,9788955027808
+36,MySQL 5.X,김상호,글로벌,20120115.0,19000,9788955026191
+37,SQL 튜닝 비법 (기본 문법부터 최적의 성능을 발휘하는 SQL 작성까지),강남이,인사이트,20130315.0,20700,9788966260690
+38,불친절한 PL/SQL 프로그래밍 (기본 개념에서 고급 기능까지 오라클 PL/SQL의 바이블),정희락,디비안(주)(DBian),20210412.0,36000,9791196395780
+39,오라클 SQL 튜닝,이경오,한빛미디어,20160318.0,15120,9788968488146
+40,SQL로 시작하는 데이터 분석 (실무에 꼭 필요한 분석 기법 총정리!),캐시 타니무라,한빛미디어,20220810.0,27000,9791169210089
+41,데이터베이스 이론과 SQL활용,이창석^길은숙,한경사,20220830.0,26100,9788968444289
+42,하루 10분 SQL (따라 하면서 배우고 쉽게 업무에 활용하는 실전 SQL),한상일,위키북스,20200710.0,21600,9791158392130
+43,누구나 쉽게 SQL (재미있게 술술 읽으면서 이해하는 SQL 이야기),홍형경,길벗,20190613.0,13500,9791160508161
+44,SQL 코딩의 기술 (Effective SQL | 똑똑하게 코딩하는 법),존 비아시에스,길벗,20171130.0,25200,9791160503425
+45,PHP & MYSQL (효과적이고 생동감 넘치는 웹 애플리케이션 만들기),린 베일리^마이클 모리슨,한빛미디어,20100506.0,28800,9788979147391
+46,SQL Easy,,Createspace,20130204.0,19530,9781482358278
+47,Mysql 반양장,Mysql Ab (EDT),Macmillan Computer,20040719.0,0,9780672326349
+48,Head First PHP & MySQL: A Brain-Friendly Guide (Php & Mysql),"Beighley, Lynn",O&#39;Reilly Media,20081201.0,81720,9780596006303
+49,Php & Mysql (The Missing Manual),"McLaughlin, Brett",Oreilly & Associates Inc,20111122.0,51990,9780596515867
+50,SQL 이론과 실무,조성건,기전연구사,20030125.0,13500,9788933606186
+51,Do it! SQL 입문 (비전공자도 개발자도 쉽게 배우는  기초 문법 + 실용 예제),강성욱,이지스퍼블리싱,20220701.0,19800,9791163033806
+52,"김상형의 SQL 정복 (Oracle, MSSQL, MariaDB 기반 실습환경)",김상형,한빛미디어,20210501.0,35100,9791162244241
+53,SQL SERVER 튜닝 가이드 (현장 이슈들을 축약하여 예시로 배워보는 족보집),김성식^채영석^서채원^김국현^김민섭,엑셈,20220404.0,33300,9791188427048
+54,프로 SQL 애저 입문,Scott Klein,ITC,20110810.0,21600,9788963510293
+55,넘버투 PHP (MySQL 맞짱뜨기),이호진,비제이퍼블릭,20180131.0,25200,9791186697511
+56,MySQL(한국어판) (효율적인 웹 애플리케이션 데이터베이스 운용 관리 가이드),폴 뒤브와,에이콘출판,20140401.0,49500,9788960775411
+57,"SQL 더 쉽게, 더 깊게 (친절한 설명과 풍부한 그림으로 배우는)",미크,제이펍,20140917.0,0,9791185890043
+58,NoSQL 철저 입문 (NoSQL 세상을 이해하고 최적의 NoSQL을 선택하자),댄 설리번,길벗,20151228.0,0,9791186978368
+59,SQL Bible,"Kriegel, Alex",John Wiley & Sons,20080407.0,89170,9780470229064
+60,"이것이 MySQL이다 (MySQL 설치부터 PHP, 파이썬 연동까지 한번에!)",우재남,한빛미디어,20200510.0,28800,9791162242780
+61,이것이 MySQL이다 (MySQL 설치부터 PHP 연동까지 한번에!),우재남,한빛미디어,20160610.0,0,9788968482793
+62,SQL이 보이는 그림책 (개정증보판),"ANK co.,Ltd.",성안당,20190207.0,15300,9788931555875
+63,DB 이론과 SQL 실습,조영성^정지문,혜지원,20090820.0,18000,9788983796110
+64,SQL이 보이는 그림책,"ANK Co., Ltd.",성안당,20150920.0,0,9788931553864
+65,쉽게 배우는 MY SQL,김상호^나인섭^정종필,글로벌,20190425.0,19800,9788955027730
+66,Oracle SQL (실전 오라클 SQL 가이드),문성기,다올미디어,20110831.0,0,9788996629726
+67,NoSQL 프로그래밍 (한 권으로 끝내는 NoSQL 솔루션 활용법),샤샨크 티와리,위키북스,20130130.0,27000,9788998139117
+68,NoSQL 핵심 가이드 (관계형 데이터베이스의 한계를 뒤어 넘는다),Tatsuya Sasaki,로드북,20111230.0,22500,9788996659860
+69,오라클 PL/SQL 입문,어시스트 교육부,제이펍,20151230.0,24300,9791185890364
+70,Real MySQL,이성욱,위키북스,20120508.0,40500,9788992939003
+71,SQL이 보이는 그림책 (국내 최초 그림으로 배우는 SQL 프로그래밍 입문서),"ANK Co.,Ltd",성안당,20170719.0,0,9788931555196
+72,MYSQL 성능 최적화,배론 슈와츠,위키북스,20101119.0,0,9788992939546
+73,Oracle SQL (실전 오라클 SQL 가이드),문성기,다올미디어,20141031.0,0,9788997587155
+74,SQL Tuning,Dan,O&#39;Reilly Media,20031201.0,44470,9780596005733
+75,PHP6 MYSQL5 (다이내믹한 웹사이트 만들기),래리 울만,위키북스,20100528.0,0,9788992939461
+76,Tribal SQL,,Red Gate Books,20130923.0,44560,9781906434809
+77,"오라클 SQL과 PL/SQL (다양한 예제로 쉽게 배우는, 개정3판)",서진수^김균도,생능출판,20170908.0,28800,9788970509280
+78,손에 잡히는 10분 SQL (가볍게 시작하는 데이터 분석의 첫걸음),벤 포터,인사이트,20201016.0,16200,9788966262687
+79,EXCEL로 처음만나는 SQL,이상구^백지형^정호석^김정수,루나파인북스,20220301.0,14400,9791197119934
+80,오라클 SQL과 PL SQL,서진수,생능출판,20121026.0,0,9788970507521
+81,"실전 DB모델링과 SQL (금융, 공공 프로젝트를 위한)",이호상,혜지원,20140207.0,20700,9788983798084
+82,MySQL 5.7 완벽 분석 (DB 관리자가 알아야 할 주요 개념과 175가지 신기능),오쿠노 미키야,인사이트,20190508.0,23400,9788966262403
+83,업무에 바로 쓰는 SQL 튜닝 (최적의 성능을 위한 MySQL/MariaDB 쿼리 작성과 튜닝 실습),양바른,한빛미디어,20210701.0,19800,9791162244500
+84,그림으로 배우는 SQL 입문 (다양한 그림과 예문으로 쉽게 배우는 SQL과 데이터베이스 초입문),사카시타 유리,영진닷컴,20210630.0,16200,9788931465518
+85,SQL BOOSTER (프로젝트 성공을 위한 SQL 필독서),유일환,디비안(주)(DBian),20191101.0,25200,9791196395759
+86,손에 잡히는 10분 SQL (SQL in 10 Minutes),벤 포터,인사이트,20130909.0,0,9788966260645
+87,NoSQL 데이터 모델링 (빅데이터 시대를 여는 첫걸음),이장복,지앤선,20140731.0,0,9788993827842
+88,MySQL Bible,,John Wiley & Sons,20020601.0,74290,9780764549328
+89,MySQL Clustering,,MySQL Press,20060309.0,66860,9780672328558
+90,SQL서버 2012 활용,이원호,오성미디어,20140822.0,15000,9788966281381
+91,평생 필요한 데이터 분석(확장판) (차원이 다른 데이터 분석과 SQL 입문서),유일환,디비안(주)(DBian),20220701.0,28800,9791191941029
+92,불친절한 SQL 프로그래밍 (기본 개념에서 고급 기능까지 오라클 SQL의 바이블),정희락,디비안(주)(DBian),20180910.0,39600,9791196395711
+93,빅데이터 처리와 통계분석 (엑셀과 MS SQL을 활용한),변정한^이순철,컴원미디어,20170820.0,16200,9788992475792
+94,국가 공인 SQL: 전문가 개발자 (한 권으로 끝내기!!),김형로^이종섭^최혜길,크라운출판사,20190110.0,22500,9788940635773
+95,오라클 실무활용 SQL튜닝 2,이익,커널연구회,20120420.0,29700,9788997750047
+96,MySQL 퍼포먼스 최적화 (실무 예제로 다가가는 MySQL 쿼리 작성),성동찬,한빛미디어,20140314.0,10710,9788968486289
+97,생활코딩! PHP+MySQL (처음 프로그래밍을 시작하는 입문자의 눈높이에 맞춘),이고잉,위키북스,20190115.0,24300,9791158391348
+98,"SQL Server: 운영편 (디비로 누리는 특별한 세상, 나의 첫 번째 데이터베이스 운영하기)",이장래,루비페이퍼,20170405.0,23400,9791186710142
+99,HEAD FIRST SQL (효율적인 DB관리를 위한 SQL 학습법),린 베일리,한빛미디어,20080501.0,24300,9788979145601
+0,"SQL Server: 개발편 (디비로 누리는 특별한 세상, 나의 첫 번째 데이터베이스 개발하기)",이장래,루비페이퍼,20170405.0,25200,9791186710135
+1,Advanced SQL,,Lulu Press,20180716.0,112300,9780244699994
+2,Head First SQL,"Beighley, Lynn",O&#39;Reilly Media,20070801.0,122220,9780596526849
+3,Learning SQL,"Beaulieu, Alan",.,20090915.0,0,9780596520830
+4,Expert MySQL,COMPUTER BOOKSHOPS,Apress,20121219.0,114190,9781430246596
+5,Expert MySQL,"Bell, Charles A.",Springer-Verlag New York Inc,20061201.0,81540,9781590597415
+6,MONGODB 완벽 가이드 (NoSQL의 진수를 만나다!),크리스티나 초도로우,한빛미디어,20110530.0,0,9788979148251
+7,Hadoop NoSQL (대용량 데이터 분석 및 처리를 위한),서상원,길벗,20130103.0,0,9788966185030
+8,이것이 SQL Server다 (실습으로 체험하고 바로 운영한다),우재남,한빛미디어,20160710.0,27000,9788968482922
+9,SQL SERVER 2008,우재남,한빛미디어,20090310.0,0,9788979146578
+10,SQL SERVER 2005,우재남,한빛미디어,20061201.0,0,9788979144468
+11,Php And Mysql (For Dynamic Web Sites),"Ullman, Larry",Addison-Wesley,20210101.0,0,9780321525994
+12,"이지IT의 C#, MSSQL 실무 기초",이지 IT,퍼플,20220817.0,10000,9788924099430
+13,데이터베이스 시스템 개론과 MySQL 실습,이용주,홍릉,20220630.0,21780,9791156000495
+14,[POD] 손에 잡히는 SQL 튜닝,김기덕,부크크(bookk),20200325.0,22000,9791127295738
+15,알기쉬운 파이썬 SQL 코딩하기 (비전공자도 쉽게 배우는 SQL),정현희,크라운출판사,20230110.0,12830,9788940646052
+16,MY SQL 웹 DB 프로그래밍,이상관 외,기전연구사,20040209.0,13500,9788933606520
+17,데이터베이스 배움터 (MS SQL Server 기반),홍의경,생능출판,20120829.0,26190,9788970507514
+18,소설처럼 읽고 실행하는 SQL (실전에서 바로 활용하는 SQL),전익진,비제이퍼블릭,20190315.0,18000,9791186697795
+19,데이터베이스 개론과 SQL 실무 (MS SQL Server기반),김은영,도서출판 홍릉(홍릉과학출판사),20191220.0,25740,9791156007234
+20,NoSQL & Redis,주종면,데이터북,20190310.0,28800,9788996311492
+21,데이터베이스 개론과 실습 (SQL Server 2014),유재건,한성대학교출판부,20150819.0,22000,9788968200151
+22,PHP & MySQL 닌자 비법서 (견고한 웹 애플리케이션을 만들며 초보에서 고수로 거듭나기),톰 버틀러,한빛미디어,20190201.0,31500,9791162241455
+23,これからはじめるSQL入門,이케우치 타카히로,技術評論社,20180528.0,36760,9784774196879
+24,세븐 데이터베이스 (만들면서 파악하는 NoSQL),에릭 레드몬드,제이펍,20130327.0,0,9788994506579
+25,PHP MySQL 프로그래밍,이준형,북스홀릭,20120716.0,0,9788994914923
+26,SQL SERVER 2008 (Step by Step Microsoft),마이크 호텍,정보문화사,20100115.0,19800,9788956744902
+27,SQL SERVER 2008 (생각하는 초보 개발자를 위한),정홍주,대림,20090518.0,0,9788972807995
+28,Pro SQL Azure,,Apress,20100815.0,71650,9781430229612
+29,초보자를 위한 SQL 200제(PL/SQL) (SQL 시작을 위한 최고의 입문서!),유연수,정보문화사,20200520.0,22500,9788956748504
+30,"데이터 분석을 위한 SQL 레시피 (데이터 처리부터 매출/유저 파악, 리포팅 등 각종 데이터 분석과 활용까지)",가사키 나가토^다미야 나오토,한빛미디어,20180401.0,32400,9791162240601
+31,ORACLE 12c(기초 SQL 편) (그림과 예제로 배우는 기초 SQL),황오현^최용호^전현태^김승현,엑시엄,20180816.0,22500,9791195942541
+32,A Guide to SQL,,Cengage Learning,20200804.0,179350,9780357361689
+33,SQL Server 운영과 튜닝,SQLTAG,영진닷컴,20120417.0,31500,9788931442427
+34,데이터베이스와 한글 MS-SQL (단계적으로 배우는),신경애,글로벌,20080225.0,14400,9788955024357
+35,알기 쉬운 파이썬 SQL 코딩하기,정현희,크라운출판사,20200324.0,13500,9788940642320
+36,T SQL 프로그래밍 입문,이직 벤간,비제이퍼블릭,20130926.0,29700,9788994774473
+37,MySQL 8 Cookbook,,Packt Publishing,20180129.0,86070,9781788395809
+38,T-SQL Querying,,Microsoft Press,20150316.0,97850,9780735685048
+39,Ready-Made Visual Fox Applications for File Maintenance (SQL by Example),,Authorhouse,20110701.0,16640,9781449082000
+40,A Guide to SQL,,Cengage Learning,20141212.0,172700,9781111527273
+41,Art of SQL 반양장,"Faroult, Stephane",O&#39;Reilly,20100601.0,0,9780596008949
+42,Pro Oracle SQL,,Apress,20131031.0,130480,9781430262206
+43,MySQL Tutorial,,Sams,20031124.0,59430,9780672325847
+44,A Guide to SQL,,Course Technology,20041122.0,20000,9780619216740
+45,Pro Oracle SQL,,Apress,20101130.0,81540,9781430232285
+46,데이터베이스 관리와 실습 (MS SQL Server 2008),손광수,한빛아카데미,20130730.0,24250,9788998756468
+47,"Let’s Get IT SQL 프로그래밍 (데이터 분석의 시작, SQL로 데이터 다루기)",홍형경,길벗,20211020.0,22500,9791165217211
+48,"이경오의 SQL+ SQLD 비밀노트 (국가 공인 SQL 개발자 자격증 시험 완벽 대응, 공공 데이터 기반 실습 환경)",이경오,한빛미디어,20211010.0,28800,9791162244364
+49,MS SQL Server 2012,성윤정,인피니티북스,20130830.0,27000,9788992649872
+50,SQL의 컨셉 for ORACLE,변동구,비팬북스,20120229.0,19800,9788994797045
+51,SQL로 맛보는 데이터 전처리 분석 (실무 데이터를 통해 데이터 분석 마스터하기),노수영,비제이퍼블릭,20200131.0,21600,9791190014694
+52,데이터베이스의 정석 (MySQL과 모바일 웹으로 만나는),박성진,배움터,20190822.0,18810,9788989383789
+53,SQL 코딩입문 Part 2: 활용편 (30년 경력 국내 최고 데이터 컨설턴트가 알려주는 SQL 핵심!),박상용,엔코아컨설팅,20191115.0,19800,9788995447468
+54,"NoSQL & mongoDB (개정판, MongoDB Master가 해설하는)",주종면,데이터북,20140221.0,32000,9788996311461
+55,SQL for Dummies,,For Dummies,20190130.0,44560,9781119527077
+56,"DBA를 위한 MySQL 운영 기술 (모니터링, 백업/복구, 이중화, 도구와 기법)",조영재,위키북스,20150728.0,31500,9791158390044
+57,PHP+MySQL 웹 개발 마스터 북 (로그인부터 회원 관리까지 쉽게 배우는 PHP와 MySQL),나가타 요리노부,남가람북스,20160713.0,25200,9791195484546
+58,SQL Programming (Java Script and Coding Programming Guide: Learn In A Day!),,Lulu Press,20160107.0,55930,9781329778993
+59,Oracle 12c: SQL,,Course Technology,20150911.0,155910,9781305251038
+60,SQL for Dummies,"Taylor, Allen G.",John Wiley & Sons Inc,20100115.0,44560,9780470557419
+61,SQL for Dummies,,For Dummies,20130826.0,32890,9781118607961
+62,MySQL 데이터베이스와 클라우드 (인공지능 사물인터넷을 위한),김경신,복두출판사,20210205.0,19800,9791166750045
+63,SQL AntiPatterns (개발자가 알아야 할 25가지 SQL 함정과 해법),빌 카윈,인사이트,20110627.0,23400,9788966260041
+64,개발자를 위한 PL/SQL 프로그래밍 (PL/SQL의 효율적 활용을 위한 풍부한 예제 제공),나장근,제이펍,20170630.0,25200,9791185890913
+65,MySQL 데이터베이스와 클라우드 (인공지능 사물인터넷을 위한),김경신,복두출판사,20191126.0,18900,9791159066016
+66,The SQL Workshop,,Packt Publishing,20191227.0,51630,9781838642358
+67,스파크 2.0으로 하는 고속 스마트 빅데이터 분석과 처리 3/e (표준 SQL과 진화한 데이터 표현 지원),크리슈나 산카르,에이콘출판,20170922.0,27000,9791161750569
+68,Advanced MySQL 8,,Packt Publishing,20181031.0,68850,9781788834445
+69,SQL 튜닝의 시작 : SQL 튜닝 방법론,박성호^정동기^오경렬^박준연,엑셈,20160902.0,0,9788996817970
+70,Oracle 10g : SQL,,Course Technology,20060127.0,33000,9781418836290
+71,SQL Cookbook 반양장 (Query Solutions and Techniques for Database Developers),"Molinaro, Anthony",O&#39;Reilly,20090725.0,0,9780596009762
+72,오라클 SQL & PL/SQL (업그레이드된 쿼리로 만나는),김태근,프리렉,20120625.0,23400,9788965400226
+73,A Guide to MySQL,"Pratt, Philip J.",Cengage Learning,20051129.0,192400,9781418836351
+74,철통보안 SQL INJECTION (SQLI 공격과 방어의 원리),저스틴 클락,비제이퍼블릭,20110601.0,0,9788994774022
+75,書きこみ式SQLのドリル 改訂新版,야마다 요시히로,日經BP社,20130419.0,28890,9784822296216
+76,SQL Server 2012 1: 기본편 (뇌를 자극하는 SQL Server 2005 부터 이어져온 SQL Server의 바이블),우재남,한빛미디어,20130302.0,24300,9788979149920
+77,실무활용 ORACLE SQL 튜닝,이익,혜지원,20080818.0,20700,9788983795724
+78,오라클 11G + PL/SQL 입문,성윤정^서동린,대림,20090904.0,0,9788972808190
+79,PHP EXPRESS (Apache · PHP7 · MySQL),신윤환,생능출판,20200115.0,27900,9788970509969
+80,SQL in easy steps (A Bourdieusian Perspective on the Digital Divide),,In Easy Steps,20200731.0,20020,9781840789027
+81,ORACLE SQL&PL/SQL,허태성,북스홀릭퍼블리싱,20160825.0,22500,9791185123745
+82,"Oracle SQL 시험 가이드 (오라클 자격증 OCP, OCA 1Z0-051, 1Z0-061 대비용)",황순신,비팬북스,20140925.0,18000,9788994797137
+83,R과 SQL을 활용한 실전 데이터 전처리,이현호,카오스북,20160708.0,8100,9791187486008
+84,DATABASE LANGUAGE SQL : Yellow (내가 SQL로 직접하는 쉬운 데이터분석),윤권,도서출판N1,20160304.0,0,9791195640508
+85,NoSQL for Dummies,,For Dummies,20150213.0,45440,9781118905746
+86,Nosql Datenbanken,,AV Akademikerverlag,20150129.0,46480,9783639790917
+87,MySQL5逆引き大全460の極意,야마다 요시히로,秀和システム,20101201.0,34140,9784798028125
+88,"Expert Oracle SQL (Optimization, Deployment, and Statistics)",,Createspace,20140925.0,64080,9781502411549
+89,Inside Microsoft SQL Server 2005 (T-sql Programming),"Ben-gan, Itzik/ Sarka, Dejan/ Wolter, Roger",Microsoft Pr,20060614.0,66860,9780735621978
+90,Oracle PL/SQL 101,,McGraw-Hill,20001201.0,59430,9780072126068
+91,SQL in Easy Steps,,In Easy Steps,20120612.0,19530,9781840785432
+92,SQL SERVER 2000(관리자용),정원혁,대림,20010625.0,19800,9788972806004
+93,그누위즈의 PHP & MySQL 웹 프로그래밍 입문 + 활용 (PHP 8.x 반영),윤성훈^정동진^최주호,앤써북,20211120.0,20700,9791185553887
+94,2022 혼잡(JOB) IBK기업은행 기출복원+실전모의고사 3회분 (NCS직업기초｜경제·경영·금융｜시사·디지털·SQL),혼JOB취업연구소,커리어빅,20220412.0,20700,9791191026351
+95,Mastering MySQL for Web (A Beginner’s Guide),,Taylor & Francis Ltd,20220223.0,210870,9781032135137
+96,칼퇴족 김대리는 알고 나만 모르는 SQL: 기초편,김지훈,책밥,20140905.0,9900,9791195247905
+97,UNIX 서버구축과 MySQL 강의노트,조준익,기한재,20141125.0,14850,9788970187464
+98,데이터베이스 for Beginner (MySQL 실습으로 기초부터 활용까지 한번에!),우재남,한빛아카데미,20190101.0,21600,9791156644354
+99,"오라클 SQL과 PL/SQL + 데이터 모델링 입문 (개정판, 다양한 예제로 쉽게 배우는)",서진수^주시현,생능출판,20150622.0,0,9788970508405
+0,오라클 SQL과 PL/SQL을 다루는 기술 (실무에서 알아야 할 기술은 따로 있다),홍형경,길벗,20150605.0,25200,9788966189984
+1,이것이 오라클이다 (Oracle 설치부터 PL/SQL 정복까지!),우재남,한빛미디어,20180302.0,27000,9791162240489
+2,SQL Server 2012 2: 관리 응용편 (관리/응용편),우재남,한빛미디어,20140402.0,32400,9788968480782
+3,[POD] 처음 시작하는 SQL 데이터베이스,허진경,부크크(bookk),20180904.0,28000,9791127247300
+4,PHP MySQL & Oracle (PHP 입문에서 최적화된 DB 연동까지),문성기,다올미디어,20120106.0,0,9788996629757
+5,HBase 인액션 (빅데이터를 위한 NoSQL 데이터베이스),닉 디미덕,비제이퍼블릭,20130429.0,27000,9788994774381
+6,Learning Spark SQL,Aurobindo Sarkar,Packt Publishing,20181001.0,49000,9781785888359
+7,MySQL Cookbook 반양장 (Solutions for Database Developers and Administrators),"Dubois, Paul",O&#39;Reilly Media,20160224.0,101960,9781449374020
+8,Professional Nosql,Ccp^Shashank Tiwari,WROX Press,20110705.0,49000,9780470942246
+9,"Securing Hp Nonstop Servers in an Open Systems World (Tcp/ip, Oss, & SQL)",,Butterworth-Heinemann,20060816.0,206580,9781555583446
+10,"이기적 SQL 개발자 이론서+기출문제(2021) (동영상 강의 무료 제공, 최신 기출 유형 문제 제공)",임호진^박종범^임준혁,영진닷컴,20210513.0,19800,9788931462692
+11,MS SQL Server 기본에서 실무까지 (데이터 분석가와 개발자를 위한),김정현,WIDcloud(위드클라우드),20200930.0,22500,9791197024009
+12,의료데이터베이스실무 (MS-SQL Server 2005를 이용한),양옥렬,현문사,20120229.0,0,9788966302208
+13,New NoSQL & mongoDB,주종면,데이터북,20200208.0,37800,9788996311409
+14,SQL 전문가 가이드(2013 Edition) (The Guide for SQL Professional),한국데이터베이스진흥원 편집부,한국데이터산업진흥원,20190906.0,0,9788988474167
+15,성공적인 웹 프로그래밍 : PHP와 MySQL (New PHP7 Coverage),"루크 웰링, 로라 톰슨",정보문화사,20170517.0,28800,9788956747422
+16,SQL INJECTION 공격 자동화 기법 (파이썬 라이브러리를 이용한),유현수,오픈시큐어랩BOOKS,20190304.0,19800,9791196213220
+17,New NoSQL & mongoDB (개정판),주종면,데이터북,20170221.0,0,9788996311485
+18,"MySQL 8 for Big Data 반양장 (Effective data processing with MySQL 8, Hadoop, NoSQL APIs, and other Big Data tools)","Mehta, Chintan^Shabbir Challawala^Jaydip Lakhatariya^Kandarp Patel",Packt Publishing,20181130.0,39000,9781788397186
+19,실전 SQL SEVER MVP 53 (53인의 MVP가 알려주는 SQL 서버의 모든 것),MVP 커뮤니티,비제이퍼블릭,20101116.0,39600,9788996276586
+20,Oracle SQL & PL/SQL (24가지 미션으로 실무 능력을 키운다!),김수환,인피니티북스,20140716.0,25200,9791185578088
+21,ビッグデ-タ分析.活用のためのSQLレシピ,다미야 나오토^가사키 나가토,マイナビ出版,20170327.0,49900,9784839961268
+22,The Language of Sql,,Addison-Wesley Professional,20160806.0,44560,9780134658254
+23,PROC SQL by Example (Using SQL within SAS (Hardcover edition)),,SAS Institute Inc.,20080922.0,144540,9781642956245
+24,카산드라 완벽 가이드 (페이스북 트위터를 지탱하는 기술 NoSQL),에벤 휴잇,한빛미디어,20111027.0,0,9788979148527
+25,SQL Server Security,,Osborne/McGraw-Hill,20030801.0,81730,9780072225150
+26,하이브 완벽 가이드(Programming Hive) (하둡을 이용한 SQL 기반 빅데이터 분석 도구),에드워드 카프리올로,한빛미디어,20130401.0,0,9788968480072
+27,Troubleshooting SQL,,McGraw-Hill Companies,20010901.0,72820,9780072134896
+28,SQL Server Hardware,,Red Gate Books,20110606.0,39390,9781906434632
+29,The Language of SQL,,Course Technology,20100603.0,26050,9781435457515
+30,Expert PHP and MySQL,"Curioso, Andrew",Wiley,20210101.0,49000,9780470563120
+31,"Learn T-SQL From Scratch (An Easy-to-Follow Guide for Designing, Developing, and Deploying Databases in the SQL Server and Writing T-SQL Queries Efficiently)",,BPB Publications,20211220.0,56730,9789391392413
+32,"SQL SERVER 2008 무작정 따라하기 (213가지 예제와 함께 데이터베이스를 정복하는, 무작정 따라하기 for 프로그래머)",이영걸,길벗,20090728.0,22500,9788975608575
+33,오라클 11g와 함께하는 SQL과 PL/SQL (개정판),조행남,컴원미디어,20180915.0,23750,9788992475822
+34,SQL서버 연동 엑셀데이터베이스 활용 기본편,"최용석, 변헌수",퍼플,20160502.0,15000,9788924040432
+35,Learn T-SQL Querying,,Packt Publishing,20190503.0,68850,9781789348811
+36,몽고디비 인 액션 (빅데이터 시대 최고의 NoSQL 데이터베이스),카일 뱅커,제이펍,20180517.0,29700,9791188621217
+37,개발자를 위한 인덱스 생성과 SQL 작성 노하우 (머릿속에 그려지는 인덱스 생성도 / 성능과 관리를 한 번에 잡는 공정쿼리),이병국,글봄크리에이티브,20180615.0,28800,9788996560081
+38,iBATIS 인 액션 (쉽고 강력한 SQL 매핑 프레임워크 아이바티스),클린턴 비긴,위키북스,20070522.0,22500,9788995856437
+39,Beginning T-SQL 2008,"Kellenberger, Kathi",Springer-Verlag New York Inc,20091001.0,57070,9781430224617
+40,MongoDB in Action 몽고디비 인 액션 (빅 데이터 시대 최고의 NoSQL 데이터베이스),카일 뱅커,제이펍,20120420.0,0,9788994506395
+41,PROC SQL by Example: Using SQL Within SAS (Using SQL Within Sas),"Schreier, Howard",Sas Inst,20080922.0,50340,9781599942971
+42,Oracle SQL 실전튜닝 기본해법 (실습으로 터득하는),채윤수,오픈메이드컨설팅,20140102.0,0,9788996384052
+43,Oracle SQL Developer 2.1,,Packt Publishing,20091002.0,61240,9781847196262
+44,Mastering Oracle SQL,,O&#39;Reilly Media,20040601.0,74290,9780596006327
+45,Beginning Oracle SQL,,Springer-Verlag New York Inc,20091201.0,73380,9781430271970
+46,Beginning T-SQL 2012,,Apress,20111128.0,71340,9781430237044
+47,Implementing Power BI in the Enterprise,,SQL Down Under Pty Ltd,20210609.0,77460,9781922654021
+48,오라클 실전 튜닝 3 (실무에서 바로 사용할 수 있는 SQL 튜닝 가이드북),황오현^박병섭^최병인,엑시엄,20190423.0,25200,9791195942558
+49,SQL로 분석하고 Tableau로 시각화하자 (실무 예제로 익히는 데이터 분석 시각화 테크닉),모원서,비제이퍼블릭,20201030.0,23400,9791165920173
+50,프로젝트에서 강한 오라클 PL/SQL 프로그래밍,장정수,비팬북스,20150428.0,36000,9788994797205
+51,시작부터 활용까지 SQL Server 2008 (시작부터 활용까지),황혜정,글로벌,20120405.0,15300,9788955026115
+52,SQL서버 연동 엑셀데이터베이스 활용 그래프편,"최용석, 변헌수",퍼플,20160509.0,15000,9788924040425
+53,MySQL Troubleshooting (쿼리 문제 원인을 알면 해결은 쉽다),스베타 스머노바,한빛미디어,20130220.0,19800,9788979149999
+54,THE LOGICAL OPTIMIZER (성능향상을 위한 트랜스포머의 SQL 재작성 전략),오동규,오픈메이드컨설팅,20100405.0,35100,9788996384007
+55,Php And Mysql at Work (Projects You Can Use on the Job),,Macmillan Computer Pub,20080930.0,59430,9780672328572
+56,SQL Instant Reference,"Gruber, Martin",Sybex,20000330.0,48290,9780782125399
+57,SQL Clearly Explained,"Harrington, Jan L.",Elsevier Science Ltd,20100423.0,86350,9780123756978
+58,"Building Bioinformatics Solutions: With Perl, R, and SQL (With Perl, R, and SQL)","Bessant, Conrad",Oxford University Press,20140130.0,78510,9780199658565
+59,함께하는 SQL SERVER 2008 개발자 1,김연홍,디비바다,20090615.0,0,9788995918210
+60,Python과 SQL을 활용한 실전 데이터 전처리,이현호,카오스북,20180710.0,11700,9791187486213
+61,SQL for Data Analytics,,Packt Publishing,20190822.0,51630,9781789807356
+62,NoSQL & mongoDB(무료동영상) (MongoDB Master가 해설하는),주종면,데이터북,20130214.0,0,9788996311454
+63,SQL 튜닝의 시작 : SQL의 이해와 효율적인 작성법,박성호^오수영,엑셈,20130125.0,25650,9788996817932
+64,Microsoft SQL Server 2005 (포켓 컨설턴트 관리자용),윌리엄 스테네크,정보문화사,20060601.0,20700,9788956743202
+65,"Building Bioinformatics Solutions (With Perl, R and MySQL)",,Oxford University Press,20090115.0,59000,9780199230235
+66,SQL for SQL Server 반양장,"Bordoloi,B.",Prentice-Hall,20031001.0,0,9780131132993
+67,SQL Performance Tuning,,Addison-Wesley,20020901.0,89150,9780201791693
+68,SQL Server Concurrency,,Red gate books,20120901.0,44560,9781906434915
+69,MySQL Essential Skills,,Osborne/McGraw-Hill,20040601.0,54980,9780072255133
+70,Duomenu baziu valdymas (nuo teorijos iki MySQL),,"Lulu Press, Inc.",20120417.0,95130,9781326554989
+71,MySQL in a Nutshell 반양장,"Dyer, Russell J. T.",O&#39;Reilly,20210101.0,0,9780596514334
+72,"MySQL Cookbook, 2/e 반양장","Dubois, Paul",Oreilly & Associates,20210101.0,0,9780596527082
+73,PHP 6 and MySQL 6 Bible,"Suehring, Steve/ Converse, Tim/ Park, Joyce",Wiley,20210101.0,0,9780470384503
+74,오라클 실전 튜닝 1 (데이터베이스 아키텍처 및 SQL 튜닝을 위한 가이드북),황오현^이가혜^권선민^한남주^최경환,엑시엄,20161128.0,29700,9791195942503
+75,오라클 실전 튜닝 2 (데이터베이스 아키텍처 및 SQL 튜닝을 위한 가이드북),황오현^권선민^이가혜^구경서^박준형,엑시엄,20161228.0,29700,9791195942510
+76,INSIDE SQL FOR BEGINNER,황오현,마소인터렉티브,20080520.0,0,9788996113515
+77,SQL Sever 2012 운영 완벽가이드,김상훈,영진닷컴,20121113.0,27000,9788931443233
+78,그누위즈의 PHP & MySQL 웹 프로그래밍 입문 + 활용 (PHP 7 기반 | 기초부터 실전제작실습까지 초보자 눈높이에 맞춘 입문활용서),윤성훈,앤써북,20181015.0,11700,9791185553436
+79,Pro SQL Database for Windows Azure: SQL Server in the Cloud (SQL Server in the Cloud),,Apress,20120813.0,72120,9781430243953
+80,Oracle Database 11g SQL,,McGraw-Hill,20071124.0,87680,9780071498500
+81,Oracle Database 12c SQL,,McGraw-Hill/Osborne Media,20130910.0,78590,9780071799355
+82,PHP & MySQL for Dummies,"Valade, Janet",John Wiley & Sons Inc,20091120.0,44500,9780470527580
+83,Oracle Database 10g SQL,,Osborne/McGraw-Hill,20040201.0,81730,9780072229813
+84,SQL: A Beginner’s Guide,,McGraw-Hill,20010101.0,38340,9780072130966
+85,MongoDB 몽고디비 완벽 가이드 (페이스북 트위터가 선택한 NoSQL의 진수를 만나다),크리스티나 초도로우,한빛미디어,20140428.0,0,9788968480959
+86,PHP and MySQL by Example,"Quigley, Ellie",Prentice-Hall,20210101.0,0,9780131875081
+87,SQL for Microsoft Access,"Allison, Cecelia L.",Wordware Publishing,20210101.0,43240,9781598220605
+88,Expert Oracle PL/SQL 반양장,"Hardman, Ron/ McLaughlin, Michael",McGraw-Hill,20210101.0,0,9780072261943
+89,Php and Mysql Manual 반양장,"Stobart, Simon",Springer,20210101.0,0,9781852337476
+90,"SQL 개발자(Developer)이론서+문제집(2019) (무료 동영상 강의 제공, 실전 문제 7회 제공)",임호진,영진닷컴,20190110.0,16200,9788931457124
+91,"아파치 스파크 입문 (따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝)",사루타 고스케,한빛미디어,20170901.0,22500,9788968488696
+92,SQL Database Programming (The Ultimate Guide to Learning SQL Database Programming Fast!),,Ingram Publishing,20200405.0,43020,9781761033056
+93,Real MariaDB (MariaDB 10.0과 MySQL 5.6을 함께 배우는),이성욱,위키북스,20140418.0,0,9788998139537
+94,SQL- & Nosql-Datenbanken,,Vieweg + Teubner Verlag,20160725.0,114160,9783662476635
+95,MySQL & Perl for the Web,"Dubois, Paul",New Riders Publishing,20010803.0,66860,9780735710542
+96,Joe Celko’s SQL for Smarties: Advanced SQL Programming (Advanced SQL Programming),"Celko, Joe",Morgan Kaufmann,20101018.0,85000,9780123820228
+97,The SQL Server 2000 Book,,Paraglyph Press,20030201.0,74290,9781932111675
+98,Pro SQL Server Internals,Apress,Apress,20140617.0,85640,9781430259626
+99,MySQL 5.1 Plugin Development,"Hutchings, Andrew",Packt Publishing,20110822.0,64750,9781849510608
+0,ひと目でわかるSQL Server2012 レポ-ト編,,日經BP社,20130822.0,39390,9784822294939
+1,Joe Celko’s SQL for Smarties: Advanced SQL Programming (Advanced SQL Programming),,Morgan Kaufmann,20141202.0,92800,9780128007617
+2,SQL Server Query Tuning and Optimization (Optimize Microsoft SQL Server 2022 queries and applications),,Packt Publishing Limited,20220812.0,63460,9781803242620
+3,PHP & Mysql: Novice to Ninja,,Sitepoint,20210907.0,59360,9781925836462
+4,웹 DB 프로그래밍(PHP+JSP+MYSQL),신문걸 외,기전연구사,20040131.0,18000,9788933606513
+5,Mastering SQL Server 2017,,Packt Publishing,20190814.0,86070,9781838983208
+6,High Performance MySQL 반양장,"Schwartz, Baron/ Zaitsev, Peter/ Tkachenko, Vadim/",O&#39;Reilly Media,20210101.0,0,9780596101718
+7,Oracle SQL by Example 반양장,"Rischert, Alice",Prentice-Hall,20040609.0,0,9780131451315
+8,Effective MySQL Optimizing SQL Statements (Optimizing SQL Statements),"Bradford, Ronald",McGraw-Hill/Osborne Media,20120213.0,48090,9780071782791
+9,Oracle PL/SQL for Dummies,,For Dummies,20060613.0,47540,9780764599576
+10,Mastering SQL Server 2008,Weyn,John Wiley & Sons Inc,20090120.0,89150,9780470289044
+11,Special Edition Using SQL (Digital Carrier),,Que,19991001.0,59430,9780789719744
+12,SQL Server 2000 XML Distilled,,Glasshaus,20021001.0,74290,9781590591918
+13,10日でおぼえるSQL Server 2005入門敎室,야마다 요시히로,翔泳社,20070901.0,36760,9784798113630
+14,From Access to SQL Server,,Apress,20001101.0,81540,9781893115248
+15,몽고DB 완벽 가이드 (실전 예제로 배우는 NoSQL 데이터베이스 기초부터 활용까지),크리스티나 초도로,한빛미디어,20210315.0,32400,9791162244067
+16,Сканер уязвимостей SQL Injection,,KS OmniScriptum Publishing,20210830.0,58530,9786204037424
+17,"SQL Server 2017, les nouveaut’s",,Expert Days,20190608.0,19410,9782956759805
+18,PostgreSQL로 시작하는 SQL 코딩입문: Part 1 기본편 (30년 경력 국내 최고 데이터 컨설턴트가 알려주는 SQL 핵심!),박상용,엔코아컨설팅,20181127.0,13500,9788995447451
+19,MySQL 8 Administrator’s Guide,,Packt Publishing,20180215.0,68850,9781788395199
+20,PostgreSQL 9.4 공식 가이드 Vol 2: SQL 언어,The PostgreSQL Global Development Group,에이콘출판,20160422.0,0,9788960778511
+21,"SQL Clearly Explained, 2/E",,Morgan Kaufmann,20030401.0,114360,9781558608764
+22,SQL All-in-One for Dummies,Taylor,For Dummies,20110318.0,59360,9780470929964
+23,Learning Oracle PL/SQL 반양장,"Pribyl, Bill.",O&#39;Reilly,20020101.0,0,9780596001803
+24,MySQL and PHP from Scratch,,Que,20001101.0,51990,9780789724403
+25,SQL Server Execution Plans,,Simple Talk Publishing,20121012.0,44560,9781906434939
+26,데이터베이스 실습 (Microsoft SQL Server 2014를 기반으로 한),황혜정,글로벌,20150306.0,15300,9788955026924
+27,맛있는 MongoDB (JavaScript와 함께하는 NoSQL DBMS),정승호,비제이퍼블릭,20191227.0,25200,9791190014687
+28,SQL : A Beginner’s Guide 반양장,"Oppel, Andy/ Sheldon, Robert",McGraw-Hill,20210101.0,0,9780071548649
+29,Oracle 11g: SQL (Book Only),,Cengage Learning,20140625.0,138420,9781305268029
+30,SQL Server 2008 Administration (Real World Skills for MCITP Certification and Beyond: Exams 70-432 and 70-450),"Carpenter, Tom",John Wiley & Sons Inc,20100517.0,104010,9780470554203
+31,Accelerated SQL Server 2008,"Walters, Robert E./ Coles, Michael/ Rae, Robert/ F",Apress,20080602.0,86430,9781590599693
+32,PHP and MySQL in Easy Steps,In Easy Steps,In Easy Steps,20121016.0,19560,9781840785371
+33,Building a Data Warehouse: With Examples in SQL Server (With Examples in SQL Server),,Apress,20141111.0,114190,9781430211969
+34,Microsoft SQL Server 2011 Bible,,John Wiley & Sons Inc,20120810.0,89090,9781118106877
+35,Building a Data Warehouse: With Examples in SQL Server (With Examples in SQL Server),,Apress,20111216.0,85990,9781430242994
+36,"데이터 전처리 대전 (데이터 분석을 위한 파이썬, SQL, R 실천 기술)",모토하시 도모미쓰,한빛미디어,20191101.0,27000,9791162242247
+37,오라클 교과서 (SQL부터 백업과 복구까지 실무형 데이터베이스 개발자를 만드는),이태호,프리렉,20131107.0,34200,9788965400462
+38,뇌를 자극하는 오라클 프로그래밍 SQL PL SQL,홍형경,한빛미디어,20080107.0,0,9788979145472
+39,Murach’s MySQL (3rd Edition),,Mike Murach & Associates Inc,20190415.0,85450,9781943872367
+40,카산드라 따라잡기 (150가지 예제로 배우는 NoSQL 카산드라 설계와 성능 최적화),에드워드 카프리올로,에이콘출판,20130228.0,27000,9788960774049
+41,A Visual Introduction to SQL,,John Wiley & Sons,20011101.0,126320,9780471412762
+42,SQL Server 2005 Dba Street Smarts (A Real World Guide to SQL Server 2005 Certification Skills),"Jorden, Joseph L.",Sybex,20061030.0,44560,9780470083499
+43,Inside SQL Server 2005 Tools,"Raheem, Michael/ Sonkin, Dima/ D&#39;Hers, Thierry/ Le",Addison-Wesley,20061020.0,0,9780321397966
+44,PHP & MySQL: Novice to Ninja,"Yank, Kevin",Sitepoint,20120515.0,52070,9780987153081
+45,Refactoring SQL Applications,"Faroult, Stephane/L&#39;Hermite, Pascal/",O&#39;Reilly Media,20080701.0,66860,9780596514976
+46,오라클 DATABASE 11G와 함께하는 SQL과 PL SQL,조행남,컴원미디어,20110228.0,0,9788992475389
+47,SQL Fundamentals (Paperback),"Patrick, John J.",Prentice Hall Ptr,20080901.0,40000,9780137126026
+48,실전 SQL Server MVP 61 Volume 2 (그 두번째 이야기),MVP 커뮤니티,비제이퍼블릭,20130125.0,37800,9788994774282
+49,기초가 든든한 데이터베이스 (데이터베이스개념과 SQL언어를 처음배우는 대학생과 신입사원을위한 입문서),이종만,연두에디션,20170630.0,26730,9791195730469
+50,"2020 이기적 SQL 개발자(Developer) 이론서 + 기출문제 (무료 동영상 강의 제공, 최신 기출문제 100% 복원)",임호진,영진.com(영진닷컴),20200414.0,19800,9788931461572
+51,오라클 엑사데이터 (스토리지 계층에서 SQL 처리를 최적화하는 오라클의 획기적 솔루션),케리 오스본,제이펍,20130412.0,0,9788994506616
+52,Pro SQL Server 2008 Mirroring,,Springer-Verlag New York Inc,20091014.0,79080,9781430224235
+53,SQL Server Backup and Restore,,Red Gate Books,20120501.0,44560,9781906434861
+54,SQL Server Security Distilled,,Apress,20040401.0,81540,9781590592199
+55,Guide to the SQL Standard 반양장 (A User’s Guide to the Standard Database Language SQL),"Date, C. J./ Darwen, Hugh/ Date, C. J.  Guide to t",Addison-Wesley,19970401.0,78210,9780201964264
+56,Pro SQL Server 2012 Practices,,Apress,20121031.0,72010,9781430247708
+57,"Learning PHP MySQL  JavaScript(한국어판) (소셜 웹 개발자를 위한 3대 핵심 기술 PHP, MySQL, 자바스크립트)",로빈 닉슨,에이콘출판,20110817.0,0,9788960772199
+58,PHP and MySQL 24-hour Trainer,,WROX Press,20111014.0,59360,9781118066881
+59,"MySQL Pocket Reference, 2/e 반양장","Reese, George",Oreilly & Associates,20210101.0,22270,9780596514266
+60,Securing SQL Server (Paperback) (Protecting Your Database from Attackers),"Cherry, Denny",Syngress,20210101.0,36750,9781597496254
+61,Oracle & Microsoft SQL 프로젝트 실무 (개발자를 위한),이공명,컴스페이스,20070110.0,19800,9788995822685
+62,SQL and Relational Theory: How to Write Accurate SQL Code (How to Write Accurate SQL Code),,O&#39;Reilly Media,20151116.0,59430,9781491941171
+63,Murach’s Oracle SQL and PL/SQL,"Murach, Joel",Mike Murach & Associates,20080801.0,78020,9781890774509
+64,NoSQL with MongoDB in 24 Hours,,Sams Publishing,20140918.0,45480,9780672337130
+65,Pro SQL Server 2005 Assemblies,"Dewson, Robin",Apress,20051031.0,81540,9781590595664
+66,SQL for eServer i5 and iSeries,"Forsythe, Kevin",MC Press,20040901.0,105940,9781583470480
+67,Oracle 11g: Pl/SQL Programming (Programming),,Course Technology,20120912.0,261210,9781133947363
+68,파워빌더 12.5 실무 따라하기 (SQL Anywhere MS SQL Oracle을 이용한),윤형태,도서출판 홍릉(홍릉과학출판사),20130228.0,27720,9788997570768
+69,Oracle SQL Plus Pocket Reference,"Gennick, Jonathan",Oreilly & Associates Inc,20210101.0,20270,9780596008857
+70,Seven NoSQL Databases in a Week,,Packt Publishing,20180328.0,60230,9781787288867
+71,SQL Design Patterns: The Expert Guide to SQL Programming (Expert Guide to SQL Programming),"Tropashko, Vadim",Rampant Techpress,20070401.0,64950,9780977671540
+72,Programming SQL Server 2005 반양장,"Wildermuth, Shawn",O&#39;Reilly,20060301.0,0,9780596004798
+73,PHP & Mysql: The Missing Manual (The Missing Manual),O&#39;Reilly Media,O&#39;Reilly Media,20121127.0,52000,9781449325572
+74,"SQL Server 2008 Transact-SQL Recipes (Recipes, a Problem-solution Approach)","Sack, Joseph",Apress,20080526.0,97850,9781590599808
+75,DB2 SQL 75+ Tuning Tips for Developers,"Andrews, Tony","P+t Solutions, Inc.",20120104.0,35390,9780615264974
+76,The Definitive Guide to MySQL 5,,Springer-Verlag New York Inc,20050801.0,97850,9781590595350
+77,Einf?hrung in Datenbanken & SQL,,Lulu.com,20150221.0,107700,9781326147853
+78,SQL (Structured Query Language),조성건,내하출판사,20100201.0,15300,9788957172766
+79,PHP Programming 정복하기 (Apache+PHP+MySQL로 웹 데이터베이스를 구축하는),신윤환,북스홀릭퍼블리싱,20150227.0,22500,9791185123363
+80,PHP y MySQL Para el Desarrollo WEB,,KS OmniScriptum Publishing,20210420.0,129130,9786203586022
+81,MongoDB NoSQL로 구축하는 PHP 웹 애플리케이션,루베이트 이슬람,에이콘출판,20130101.0,27000,9788960773752
+82,MySQL Cluster 7.5 inside and out,,Books on Demand,20180212.0,108300,9789176998144
+83,High Availability MySQL Cookbook,"Davies, Alex",Packt Publishing,20100429.0,64210,9781847199942
+84,Microsoft SQL Server 2008 For Dummies,Mike Chapple,John Wiley & Sons Inc,20080929.0,47540,9780470224656
+85,Pro SQL Server 2012 Bi Solutions,,Apress,20111205.0,121330,9781430234883
+86,MySQL and Java Developer’s Guide (Java Open Source Library),"Matthews, Mark",John Wiley & Sons,20030201.0,74300,9780471269236
+87,SQL Queries for Mere Mortals 반양장,"Hernandez, Michael J./ Viescas, John L./ Viescas,",Addison-Wesley,20000801.0,0,9780201433364
+88,Pro Spatial with SQL Server 2012,"Aitchison, Alastair",Apress,20111219.0,121330,9781430234913
+89,Inside Microsoft SQL Server 2005 (Query Tuning and Optimization),"Delaney, Kalen",Microsoft Press,20070926.0,74290,9780735621961
+90,Inside Microsoft SQL Server 2008,"Ben-gan, Itzik/ Kollar, Lubor/ Sarka, Dejan/ Kass,",Microsoft,20090922.0,0,9780735626034
+91,HBase 완벽 가이드 (하둡 환경에서 실시간 빅데이터 랜덤 엑세스를 제공하는 클라우드 NoSQL),라스 조지,한빛미디어,20130102.0,0,9788979148381
+92,SQL Server Source Control Basics,,Red Gate Books,20140611.0,44560,9781910035016
+93,Microsoft SQL Server 2012 Step by Step,,Microsoft Press,20130304.0,65100,9780735663862
+94,JSP & MySQL Web Server Programming (기초부터 응용까지 다루는),이태동,북스홀릭퍼블리싱,20200901.0,29700,9791162890288
+95,만화로 보는 오라클 튜닝 (Oracle Event Tour. SQL Tuning의 기초),엑셈 컨설팅본부,엑셈,20160809.0,15300,9788996817963
+96,Busquedas en Bases de Datos NoSQL,,Editorial Academica Espanola,20180226.0,130860,9786202110099
+97,SQL Server 2017 Administrator’s Guide,,Packt Publishing,20171213.0,94670,9781786462541
+98,Data Analysis Using SQL and Excel,,Wiley,20151204.0,55220,9781119021438
+99,SQL Injection Attacks and Defense,,Syngress Publishing,20090601.0,59000,9781597494243
+0,Data Analysis Using SQL and Excel,,John Wiley & Sons Inc,20071030.0,66870,9780470099513
+1,SQL Injection Attacks and Defense,Justin Clarke,Syngress Publishing,20120601.0,97780,9781597499637
+2,Understanding MySQL Internals 반양장,"Pachev, Sasha",O&#39;Reilly Media,20070401.0,0,9780596009571
+3,Joe Celko’s SQL Programming Style,"Celko, Joe",Morgan Kaufmann,20050417.0,74950,9780120887972
+4,Microsoft SQL Server 2008 New Features,"Otey, Michael",McGraw-Hill Osborne Media,20081223.0,66870,9780071546409
+5,My First My SQL & PHP Programming (데이터베이스 기초부터 PHP 활용까지),니시자와 유메지,프리렉,20140428.0,27000,9788965400646
+6,Pro T-SQL 2012 Programmer’s Guide,,Apress,20120924.0,72120,9781430245964
+7,"Guru’s Guide to Transact-SQL, The (Philosophy and the Making of Modernity 1650-1750)",,Addison-Wesley Professional,20000201.0,86820,9780201615760
+8,Mastering Oracle SQL and Sql*plus,,Springer-Verlag New York Inc,20041201.0,81540,9781590594483
+9,Scanner di vulnerabilita SQL Injection,,KS OmniScriptum Publishing,20210830.0,146350,9786204037400
+10,Php And Mysql Developer’s Projects,,Macmillan Computer Pub,20200219.0,74290,9780672327421
+11,SQL Engines for Big Data Analytics,,LAP Lambert Academic Publishing,20190531.0,77480,9786200117731
+12,데이터는 언제나 옳다 (유스케이스별빅데이터및NoSQL기술가이드 / 대규모데이터처리와분석실무),마이클 마누체흐리,위키북스,20140528.0,22500,9788998139551
+13,Database. SQL Language for student,,KPT,20150417.0,43020,9785977501132
+14,A Book on Oracle SQL for Beginners,,KS OmniScriptum Publishing,20140731.0,82650,9783659581052
+15,Evaluierung von SQL Zugriffsplanen,,AV Akademikerverlag,20140729.0,68870,9783639640489
+16,Pro SQL Server 2008 Administration,,Springer-Verlag New York Inc,20090801.0,81540,9781430223733
+17,Oracle SQL Tuning Pocket Reference,"Gurry, Mark",O&#39;Reilly,20020108.0,14780,9780596002688
+18,SAS 9.2 SQL Procedure User’s Guide,SAS Publishing (EDT),SAS Institute,20090227.0,38560,9781599948539
+19,Oracle Database 10g PL/SQL 101 반양장,Allen,McGraw Hill,20040801.0,0,9780072255409
+20,Expert SQL Server 2008 Development,,Springer-Verlag New York Inc,20091230.0,79180,9781430272137
+21,Pro SQL Server 2012 Administration,,Apress,20120423.0,86430,9781430239154
+22,Oracle High-Performance SQL Tuning,,Osborne,20010727.0,93620,9780072190588
+23,Pro SQL Server 2008 Service Broker,,Apress,20111216.0,85990,9781430243021
+24,SQL Server 2014 Development Essentials,,Packt Publishing,20140719.0,62780,9781782172550
+25,Oracle PL/SQL Interactive Workbook,,Prentice Hall PTR,20021001.0,59430,9780130473202
+26,MySQL Cookbook: Solutions for Database Developers and Administrators,,O&#39;Reilly Media,20220920.0,118880,9781492093169
+27,Professional SQL Server 2005 Xml 반양장,"Klein, Scott",Wiley,20210101.0,48000,9780764597923
+28,MYSQL REFERENCE GUIDE 5.1(레퍼런스 가이드) (처음부터 끝까지),박장규,혜지원,20091203.0,35100,9788983796295
+29,Guide to NoSQL with Azure Cosmos DB,,Packt Publishing,20180928.0,51630,9781789612899
+30,이것이 레디스다 (초고속 읽기 쓰기를 제공하는 인메모리 기반 NoSQL Redis),정경석,한빛미디어,20131105.0,0,9788968480591
+31,Comparing Access SQL and ORACLE SQL,,Lulu.com,20170424.0,92970,9781365915376
+32,SQL Server 2012 BI(Business Intelligence) (권태돈과 함께하는),권태돈,아이티포럼,20131105.0,0,9788997945023
+33,SQL Server 2012 Query Performance Tuning,Apress,Apress,20120425.0,85640,9781430242031
+34,SQL: Practical Guide for Developers (Practical Guide For Developers),"Donahoo, Michael J./ Speegle, Gregory D.",Morgan Kaufmann,20050729.0,61900,9780122205316
+35,SQL Server 2008 Administration in Action,"Colledge, Ray/ Kline, Kevin (FRW)",Manning Publications,20090201.0,64480,9781933988726
+36,Microsoft SQL Server 2000 for Dummies 반양장,토마스 만,Hungry Minds,20010129.0,0,9780764507755
+37,Pro SQL Server 2005 Replication 반양장,"Paul, Sujoy P.",Apress,20061228.0,0,9781590596500
+38,Oracle SQL: Jumpstart with Examples (Jumpstart With Examples),,Digital Press,20041031.0,145090,9781555583231
+39,Beginning SQL Server for Developers,,Apress,20141227.0,114160,9781484202814
+40,Scanner fur SQL-Injection-Schwachstellen,,KS OmniScriptum Publishing,20210830.0,146350,9786204037370
+41,Scanner de vulnerabilite d’injection SQL,,KS OmniScriptum Publishing,20210830.0,146350,9786204037394
+42,Sams Teach Yourself Mysql in 24 Hours,"Meloni, Julie C.",Sams,20210101.0,44560,9780672323492
+43,"Joe Celko’s SQL for Smarties, 3/e 반양장","Celko, Joe",Morgan Kaufman,20210101.0,0,9780123693792
+44,SQL Server 2019 Administration Inside Out,,Microsoft Pr,20191024.0,97850,9780135561089
+45,Analytic SQL in SQL Server 2014/2016,,Iste/Hermes Science Pub,20190904.0,245220,9781786304124
+46,Effective SQL: 61 Specific Ways to Write Better SQL (61 Specific Ways to Write Better SQL),"Viescas, John",Addison-Wesley Professional,20170102.0,91660,9780134578897
+47,Microsoft Sql Server 7 Dba Survival Guide : A,"Spenik, Mark (Edt)/ Sledge, Or",Sams,19990101.0,0,9780672312267
+48,Effective MySQL: Backup and Recovery,"Bradford, Ronald",McGraw-Hill/Osborne Media,20121124.0,32710,9780071788571
+49,"Microsoft SQL Server 2012 Administration (Real-World Skills for MCSA Certification and Beyond (Exams 70-461, 70-462, and 70-463))",Sybex,John Wiley & Sons Inc,20130607.0,91280,9781118487167
+50,SQL Server Internals: In-Memory Oltp,,Red Gate Books,20141010.0,44560,9781910035030
+51,SQL for MySQL: A Beginner’s Tutorial (A Beginner’s Tutorial),,Brainysoftware,20140801.0,22100,9780980839678
+52,Database Systems Using Oracle: A Simplified Guide to SQL and PL/SQL (A Simplified Guide to SQL and PL/SQL),,Prentice Hall,20040513.0,271840,9780131018570
+53,Scanner de vulnerabilidade de injeccao SQL,,KS OmniScriptum Publishing,20210830.0,146350,9786204037417
+54,Database Management System with NoSQL,,LAP Lambert Academic Publishing,20181129.0,146350,9786139959044
+55,Microsofta SQL Servera 2008 Internals,"Delaney, Kalen",Microsoft Press,20090311.0,89150,9780735626249
+56,Sams Teach Yourself SQL in 10 Minutes,"Forta, Ben",Sams,19990801.0,0,9780672316647
+57,Programming Microsoft SQL Server 2012,"Lobel, Leonard",Microsoft Press,20120731.0,78200,9780735658226
+58,Joe Celko’s Analytics and OLAP in SQL,"Celko, Joe",Morgan Kaufmann,20060724.0,89630,9780123695123
+59,Pro SQL Server 2008 Analysis Services,"Janus, Philo/Fouche, Guy/",Springer-Verlag New York Inc,20100601.0,73380,9781430219958
+60,Oracle SQL Tricks and Workarounds: Expert Guide to Oracle SQL Excellence (Expert Guide to Oracle SQL Excellence),"Hilkevich, Zahar",Authorhouse,20110801.0,57020,9781463421373
+61,Beginning SQL Server 2005 Programming,,WROX Press,20060220.0,49000,9780764584336
+62,"Querying Xml (Xquery, Xpath, And Sql/xml in Context)",,Morgan Kaufmann,20060320.0,19000,9781558607118
+63,Inside the SQL Server Query Optimizer,,Simple Talk Publishing,20110307.0,44560,9781906434601
+64,Sams Teach Yourself PL/SQL in 21 Days,,Sams,19991201.0,59430,9780672317989
+65,SQL Server Transaction Log Management,,Red Gate Books,20121221.0,44560,9781906434960
+66,Beginning SQL Server 2005 Programming,Robert Vieira,정보문화사,20061023.0,22500,9788956743479
+67,Introducing Microsoft SQL Server 2014,,Microsoft Press,20140512.0,12990,9780735684751
+68,HBase 클러스터 구축과 관리 (NoSQL데이터베이스 관리를위한 하둡과 HBase클러스터설치에서 고급튜닝까지),이펑 지앙,에이콘출판,20130101.0,27000,9788960773790
+69,Data Science with SQL Server Quick Start Guide (Integrate SQL Server with data science),Dejan Sarka,Packt,20190301.0,23000,9781789537123
+70,SQL Server 2016 High Availability Unleashed (Includes Content Update Program),,Sams,20170807.0,71340,9780672337765
+71,SQL Server 2016 Reporting Services Cookbook,,Packt Publishing,20161128.0,94670,9781786461810
+72,Oracle Database 12c Pl/SQL Programming,Michael McLaughlin,McGraw-Hill/Osborne Media,20140214.0,97530,9780071812436
+73,Microsoft SQL Server 2012 T-SQL Fundamentals,Itzik Ben-Gan,Microsoft Press,20120712.0,65080,9780735658141
+74,Teach Yourself Transact SQL in 21 Days,"Solomons, David",Sams,20010301.0,66860,9780672319679
+75,Oracle Database 12c Pl/SQL Advanced Programming Techniques (PL/SQL Advanced Programming Techniques),,McGraw-Hill Education,20141110.0,111460,9780071835145
+76,SQL Pocket Guide: A Guide to SQL Usage,"Gennick, Jonathan",O&#39;Reilly Media,20120420.0,25460,9781449394097
+77,Pro SQL Server 2008 Reporting Services,"Landrum, Rodney/ Mcghehh, Shawn/ Voytek, Walter, I",Apress,20080825.0,73380,9781590599921
+78,Oracle Database 10g PL/SQL Programming,,Osborne/McGraw-Hill,20040801.0,89170,9780072230666
+79,Microsoft SQL Server 2005 Analysis Services,"Melomed, Edward/ Gorbach, Irina/ Berger, Alexander",Sams,20061213.0,0,9780672327827
+80,"Scientific Database and Programming Examples Using PHP, MySQL, XML, MATLAB, Python, Perl: Using PHP, MySQL, XML, MATLAB, Python, Perl (Using Php,mysql,xml,matlab,python,perl)",XLIBRIS CORP,Xlibris Corporation,20130426.0,28790,9781465364432
+81,Oracle Pl/Sql Developer’s Workbook 반양장,"Feuerstein, Steven",O&#39;Reilly,20000301.0,0,9781565926745
+82,Sams Teach Yourself SQL in 21 Days 반양장,"Plew, Ron/ Stephens, Ryan/ Plew, Ronald R.",Macmillan Computer,20021001.0,0,9780672324512
+83,Pro SQL Server 2012 Reporting Services,,Apress,20120620.0,72120,9781430238102
+84,Professional SQL Server 2005 Programming,"Vieira, Robert",Wiley,20210101.0,48000,9780764584343
+85,Advanced SQL Functions in Oracle 10g 반양장,"Earp, Richard",Wordware Publishing,20210101.0,60270,9781598220216
+86,Sql Functions Programmer’s Reference 반양장,"Kriegel, Alex/ JONES, ARIE (EDT)",Wiley,20210101.0,0,9780764569012
+87,SQL Data Analysis Programming for Beginners (How to Learn SQL Data Analysis in Less Than a Week. The Ultimate Step-by-Step Complete Course from Novice to Advanced Programmer),,Cristina Cafagno,20210719.0,53350,9781803668147
+88,Introduction to Database Design and SQL,,Kendall/Hunt Publishing Company,20191210.0,140280,9781792410864
+89,Practical SQL(Paperback)(Paperback) 반양장 (A Beginner’s Guide to Storytelling with Data),"Debarros, Anthony",No Starch Press,20180501.0,39000,9781593278274
+90,Murach’s SQL Server 2016 for Developers (Training and Reference),,Mike Murach & Associates,20160628.0,82070,9781890774967
+91,"Sql: A Beginner’s Guide, Fourth Edition (A Beginner’s Guide)",,McGraw-Hill Education,20151022.0,59450,9780071842594
+92,Learning PHP MySQL JavaScript CSS(한국어판) (동적인 소셜 웹 개발을 위한 4가지 핵심 기술),로빈 닉슨,에이콘출판,20130628.0,0,9788960774421
+93,Mastering Microsoft SQL Server 2005 반양장,"Gunderloy, Mike",Wiley,20060619.0,0,9780782144024
+94,Microsoft SQL Server 7 OLAP Developer’s Guide,,M&T BOOKS,20000501.0,59430,9780764546433
+95,Microsoft SQL Server 2005: A Beginner’’s Guide,,McGraw-Hill Osborne,20051101.0,55110,9780072260939
+96,PHP and MySQL : Create - Modify - Reuse (Create - Modify - Reuse),"Boronczyk, Timothy",Wiley,20100326.0,36000,9780470192429
+97,"SQL the Complete Reference, 3rd Edition (The Complete Reference)","Groff, James R.",McGraw-Hill,20090812.0,93620,9780071592550
+98,Pro SQL Server 2008 Failover Clustering,"Hirt, Allan",Apress,20090615.0,81540,9781430219668
+99,DB2 SQL Tuning Tips for z/OS Developers,tony,IBM Press,20121227.0,57070,9780133038460
+0,Microsoft SQL Server 2008 T-SQL Fundamentals 반양장,"Ben-gan, Itzik",Microsoft,20210101.0,0,9780735626010
+1,Sams Teach Yourself SQL in 10 Minutes 반양장,"Forta, Ben",Sams,20210101.0,0,9780672325670
+2,Programming Microsoft SQL Server 2005 반양장,"Brust, Andrew J./ Forte, Stephen",Microsoft,20210101.0,0,9780735619234
+3,PHP & MySQL: Server-Side Web Development (Server-side Web Development),,John Wiley & Sons Inc,20190904.0,66870,9781119149224
+4,SQL Server 2017 Integration Services Cookbook,,Packt Publishing,20170630.0,103290,9781786461827
+5,Exam Ref 70-762 Developing SQL Databases,,Microsoft Press,20170127.0,65230,9781509304912
+6,SQL Injection Attack and Countermeasures,,KS OmniScriptum Publishing,20120811.0,103310,9783659211836
+7,Microsoft SQL Server 2012 Master Data Services,,McGraw-Hill/Osborne Media,20120905.0,78760,9780071797856
+8,Reporting with Microsoft SQL Server 2012,,Packt Publishing,20140330.0,40806,9781782171720
+9,Pro SQL Server 2012 Integration Services,,Apress,20120116.0,72120,9781430236924
+10,Microsoft SQL Server 2005 Unleashed [With CDROM],"Rankins, Ray/ Bertucci, Paul/ Gallelli, Chris/ Sil",Macmillan Computer Pub,20070420.0,96580,9780672328244
+11,How to Cheat at Securing SQL Server 2005,"Blum, Timothy",Syngress Publishing,20070905.0,89630,9781597491969
+12,Oracle SQL Tuning with Oracle Sqltxplain,Apress,Apress,20130417.0,64210,9781430248095
+13,Oracle Database 11g PL/  SQL Programming,"McLaughlin, Michael",McGraw-Hill,20090801.0,76000,9780071494458
+14,Beginning SQL Server 2012 for Developers,,Apress,20120423.0,71340,9781430237501
+15,Beginning SQL Server 2008 Administration,,Springer-Verlag New York Inc,20091001.0,64210,9781430224136
+16,Beginning SQL Server 2012 Administration,,Apress,20120620.0,72010,9781430239819
+17,Microsoft SQL Server 2005 a Developer’s Guide 반양장,"Otey, Michael/ Otey, Denielle",McGraw-Hill,20210101.0,0,9780072260991
+18,SQL AND PYthon Programming: 2 Books IN 1!,,Tyler MacDonald,20191225.0,48100,9781951764272
+19,"Open Source Development with Lamp: Using Linux, Apache, MySQL, Perl, and PHP (Using Linux, Apache, Mysql, Perl, and Php)",,Addison-Wesley Professional,20021201.0,74290,9780201770612
+20,Learning MySQL: Get a Handle on Your Data,"Tahaghoghi, Seyed M. M./ Williams, Hugh E.",O&#39;Reilly Media,20061101.0,81720,9780596008642
+21,"Microsoft SQL Server 2012 Reporting Services, 4/E","Larson, Brian",McGraw-Hill Osborne,20120301.0,44100,9780071760478
+22,Oracle9i PL/SQL Programming (2nd edition),,Osborne,20011101.0,74290,9780072191479
+23,Sams Teach Yourself SQL in One Hour a Day,"Stephens, Ryan",Sams,20090605.0,67640,9780672330254
+24,MySQLで學ぶデ-タベ-ス超入門 DB Magazine連載「デ-タベ-スはじめの一步」より,야마다 요시히로,翔泳社,20090701.0,28890,9784798119922
+25,Advanced Transact-SQL for SQL Server 2000 (Emergent Level Launch Pack),,Apress,20001001.0,87080,9781893115828
+26,Sams Teach Yourself Mysql in 10 Minutes 반양장,"Newman, Chris",Sams,20210101.0,37130,9780672328633
+27,SQL Server Reporting Services Crash Course,,Lulu Press,20200329.0,86070,9781716901416
+28,Hands-On Data Science with SQL Server 2017,,Packt Publishing,20181130.0,77460,9781788996341
+29,Mastering SQL Queries for SAP Business One (Utilize the Power of SQL Queries to Bring Business Intelligence to Your Small to Medium-sized Business),,Computer Bookshops,20110530.0,78490,9781849682367
+30,Da Microsoft Access a Microsoft SQL Server,,Lulu.com,20180128.0,48790,9780244964849
+31,Self-help Manual Microsoft SQL Server 2005,,KPT,20150223.0,43020,9785977500166
+32,Microsoft SQL Server 2008 R2 Master Data Services,"Kashel, Jeremy",Packt Publishing,20110721.0,78490,9781849680509
+33,Data Mining with Microsoft SQL Server 2008,,John Wiley & Sons,20081031.0,74230,9780470277744
+34,PHP and MySQL Web Development [With CDROM],"Welling, Luke",Addison-Wesley Professional,20081001.0,61530,9780672329166
+35,SQL Server 2000: Stored Procedure & XML Programming,,Osborne/McGraw-Hill,20030501.0,74290,9780072228960
+36,"Joe Celko’s SQL Puzzles and Answers, 2/e 반양장","Celko, Joe",Morgan Kaufmann,20210101.0,110830,9780123735966
+37,"Computer Programming. Python, SQL, PHP, C++ (4 Books in 1: The Ultimate Crash Course Learn Python, SQL, PHP and C++. With Practical Computer Coding Exercises)",,Malinda Real Estate Holding LLC,20200504.0,68470,9781954075382
+38,"Computer Programming. Python, SQL, PHP, C++ (4 Books in 1: The Ultimate Crash Course Learn Python, SQL, PHP and C++. With Practical Computer Coding Exercises)",,Malinda Real Estate Holding LLC,20200504.0,58450,9781954075290
+39,"The The Applied SQL Data Analytics Workshop (Develop your practical skills and prepare to become a professional data analyst, 2nd Edition)",Upom Malik,Packt Publishing,20200227.0,45090,9781800203679
+40,"Oracle, PostgreSQL, MySQL Core Architecture (MVCC 메커니즘과 데이터 블록의 내부 동작원리)",이상구^이근오^김숙진^이대덕^이상구,엑셈,20161220.0,28800,9788996817994
+41,PHP & MySQL in Easy Steps: Covers MySQL 8.0,,In Easy Steps,20180622.0,23760,9781840788273
+42,NoSQL Web Development with Apache Cassandra,,Cengage Learning,20151013.0,71340,9781305576766
+43,Pro SQL Server 2008 Policy-Based Management,,Springer-Verlag New York Inc,20100503.0,54340,9781430229100
+44,MySQL for Python: Database Access Made Easy,"Lukaszewski, Phd Albert",Packt Publishing,20100925.0,71340,9781849510189
+45,SQL Server 2000 Web Application Developer’s Guide,,McGraw-Hill/Osborne Media,20000101.0,72750,9780072126198
+46,PHP and MySQL Web Development (2nd Edition),,Sams,20020816.0,74290,9780672325250
+47,Understanding the New SQL: A Complete Guide,,Morgan Kaufmann,19921001.0,133670,9781558602458
+48,Fundamentals of SQL Server 2012 Replication,,Red Gate Books,20130827.0,44560,9781906434991
+49,"Professional LAMP : Linux, Apache, MySQL and PHP5 Web Development 반양장 (Linux, Apache, MySQL and PHP5 Web Development)","Gerner, Jason",Wiley,20210101.0,39200,9780764597237
+50,The SQL Server Advanced Troubleshooting and Performance Tuning (Best Practices and Techniques),,"O&#39;Reilly Media, Inc, USA",20220430.0,93530,9781098101923
+51,Step by Step Guide to Learning SQL (using MySQL) in One Day 2021 (SQL for Beginners to start coding in SQL Immediately),,luca monguzzi,20211029.0,0,9781803345383
+52,XML Integration Into an SQL-Based Cep Engine,,AV Akademikerverlag,20150310.0,92970,9783639790405
+53,MySQL Workbench: Data Modeling & Development,"McLaughlin, Michael",McGraw-Hill Osborne Media,20120722.0,57280,9780071791885
+54,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL (A Hands-On Guide to Data Manipulation in SQL),Addison-Wesley Professional,Addison-Wesley Professional,20140611.0,70100,9780321992475
+55,Data Mining & Statistical Analysis Using SQL (A Practical Guide for Dba’s),"Trueblood, Robert/ Lovett, John",Apress,20011001.0,73380,9781893115545
+56,Oracle SQL by Example [With Free Web Access],"Rischert, Alice",Prentice Hall PTR,20090814.0,99920,9780137142835
+57,Web Database Applications with PHP and MySQL,"Williams, Hugh E./ Lane, David",O&#39;Reilly & Associates,20040501.0,74290,9780596005436
+58,SQL Server 2008 Query Performance Tuning Distilled,Grant Fritchey,Apress,20090316.0,89690,9781430219026
+59,OCA Oracle Database 12c SQL Fundamentals I Exam Guide (Exam 1Z0-061) [With CDROM] (SQL Fundamentals I Exam Guide (Exam Izo-061)),,McGraw-Hill/Osborne Media,20140418.0,78030,9780071820288
+60,OCP Introduction to Oracle9i: SQL Exam Guide,,McGraw-Hill,20020201.0,74290,9780072195378
+61,SQL Server 2000 Fast Answers for Dbas And Developers,,Springer-Verlag New York Inc,20050815.0,154940,9781590595923
+62,Complete Web Applications Using PHP and MySQL,,Lulu.com,20200201.0,24820,9780244858292
+63,"Oracle, PostgreSQL, MySQL Core Architecture 2 (Memory Architecture의 내부 동작 원리를 중심으로)",이상구^이근오^김숙진^이대덕^홍성덕,엑셈,20170825.0,28800,9791188427017
+64,"SQL Server: Common Problems, Tested Solutions (Common Problems, Tested Solutions)",,Springer-Verlag,20010101.0,65160,9781893115811
+65,Murach’s Oracle SQL and PL/SQL for Developers,,Mike Murach & Associates,20140930.0,70130,9781890774806
+66,Microsoft SQL Server 2014 Query Tuning & Optimization,,McGraw-Hill/Osborne Media,20141007.0,74300,9780071829427
+67,Beginning Oracle SQL: For Oracle Database 12c (For Oracle Database 12c),,Springer,20140309.0,100700,9781430265566
+68,Efficient MySQL Performance: Best Practices and Techniques (Best Practices and Techniques),"Nichter, Daniel",O&#39;Reilly Media,20220118.0,89150,9781098105099
+69,Analise de Desempenho em Aplicacoes usando SQL,,Novas Edicoes Academicas,20170920.0,74030,9786202031073
+70,SQL: Programming Basics for Absolute Beginners,,Createspace Independent Publishing Platform,20161110.0,24330,9781540323446
+71,70-431 SQL Server 2005 Implementation and Maintenance,,John Wiley & Sons Inc,20080307.0,71780,9780470111703
+72,Microsoft SQL Server 2008 R2 Administration Cookbook,"Shyam K. Jayanty, Satya",Packt Publishing,20110527.0,78490,9781849681445
+73,Real World SQL Server Administration with Perl,,Apress,20030701.0,97850,9781590590973
+74,SQL Server 2012 Integration Services Design Patterns (Integration Services Design Patterns),,Apress,20120905.0,72120,9781430237716
+75,The Essential Proc SQL Handbook: For SAS Users,,SAS Institute,20050530.0,191030,9781590475713
+76,SQL Cookbook: Query Solutions and Techniques for All SQL Users (Query Solutions and Techniques for All SQL Users),"Molinaro, Anthony^Graaf, Robert de",O&#39;Reilly Media,20201124.0,64990,9781492077442
+77,"Sql, Pl/SQL: The Programming Language of Oracle",,LAP Lambert Academic Publishing,20190614.0,77480,9786200082855
+78,"Php, Mysql, & JavaScript All-In-One for Dummies",,For Dummies,20180409.0,59070,9781119468387
+79,"The Best Damn Exchange, SQL and IIS Book Period",,Syngress Publishing,20071130.0,109200,9781597492195
+80,Expert SQL Server 2005 Integration Services 반양장,Knight,Wrox,20070529.0,36000,9780470134115
+81,Oracle Database 11g Pl/SQL Programming Workbook,"McLaughlin, Michael",McGraw-Hill,20100120.0,70520,9780071493697
+82,Oracle SQL Recipes: A Problem-Solution Approach (A Problem-Solution Approach),,Springer-Verlag New York Inc,20091101.0,71340,9781430225096
+83,Expert Performance Indexing for SQL Server 2012,"Strate, Jason",Apress,20120116.0,71870,9781430237419
+84,Beginning Microsoft SQL Server 2012 Programming,"Vieira, Robert",WROX Press,20120406.0,52220,9781118102282
+85,Practical MDX Queries: For Microsoft SQL Server Analysis Services 2008 (For Microsoft SQL Server Analysis Services 2008),"Tennick, Art",McGraw-Hill/Osborne Media,20100524.0,70220,9780071713368
+86,Professional SQL Server 2005 Reporting Services,,WROX Press,20060306.0,49000,9780764584978
+87,Database Unit Testing for SQL Server Using Tsqlt,,Prentice Hall,20190815.0,59430,9780133564327
+88,Hitchhiker’s Guide to Visual Studio and SQL Server,"Vaughn, William R./ Blackburn, Peter",Addison-Wesley,20210101.0,0,9780321243621
+89,SQL Hacks: Tips & Tools for Digging Into Your Data,"Cumming, Andrew/ Russell, Gordon",O&#39;Reilly,20210101.0,51630,9780596527990
+90,Sql: 1999: Understanding Relational Language Components,,Morgan Kaufmann,20010501.0,163030,9781558604568
+91,Effective MySQL: Replication Techniques in Depth,.,.,20121212.0,35460,9780071791861
+92,"Oracle PL/SQL Language Pocket Reference, 4/e 반양장","Feuerstein, Steven/ Pribyl, Bill/ Dawes, Chip",Oreilly & Associates,20080719.0,22270,9780596514044
+93,Microsoft Access Developer’s Guide to SQL Server,,Sams,20001201.0,74290,9780672319440
+94,SQL Server 2012 T-SQL Recipes: A Problem-Solution Approach (A Problem-solution Approach),,Apress,20120822.0,99920,9781430242000
+95,Dimensional Data Warehousing with MySQL: A Tutorial,"Darmawikarta, Djoni",Independent,20210101.0,59360,9780975212820
+96,Microsoft SQL Server 2005 Analysis Services Step by Step 반양장,"Jacobson, Reed/ Misner, Stacia",Microsoft,20210101.0,0,9780735621992
+97,High Performance MySQL: Proven Strategies for Operating at Scale,,O&#39;Reilly Media,20220215.0,76730,9781492080510
+98,"Web Application Design and Implementation (Apache 2, Php5, Mysql, Javascript, and Linux/Unix)",,John Wiley & Sons Inc,20190228.0,133680,9781118361962
+99,Oca Oracle Database SQL Exam Guide (Exam 1z0-071) (Exam 1Z0-071),,McGraw-Hill Osborne Media,20170823.0,96600,9781259585494
+0,"웹 엔지니어의 교과서 (서버사이드, NoSQL, 프런트 엔드, 시각화, 로그 처리, 환경 구축 자동화까지 WEB 애플리케이션 개발 세계의 첫 길잡이)",㈜히토미디어,길벗,20151223.0,19800,9791186978238
+1,Training Kit (Exam 70-462) Administering Microsoft SQL Server 2012 Databases (McSa) [With CDROM] (Administering Microsoft SQL Server 2012 Databases),Orin Thomas,Microsoft Press,20120716.0,91450,9780735666078
+2,Microsoft SQL Server 2008 Administration for Oracle DBAs,,McGraw-Hill/Osborne Media,20101015.0,65670,9780071700641
+3,Mastering Oracle Pl/SQL : Practical Solutions 반양장,"McDonald, Connor/ Katz, Chaim/ Beck, Christopher/",Springer,20090817.0,0,9781590592175
+4,Oracle 9I: SQL With an Introduction to Pl/SQL 반양장,"Morris-Murphy, Lannes L., Ph.D.",Thomson Learning,20030701.0,21000,9780619212841
+5,Microsoft SQL Server 2005 Reporting Services For Dummies,"Robinson, Mark",John Wiley & Sons Inc,20051219.0,44560,9780764589133
+6,Professional SQL Server 2005 Integration Services,,WROX Press,20060131.0,60000,9780764584350
+7,PHP and MySQL Web Development: A Beginner’s Guide (A Beginners Guide),,McGraw-Hill/Osborne Media,20141229.0,55920,9780071837309
+8,Programming for Beginners (2 Books in 1: Linux for Beginners SQL for Beginners),,Black and White Line Ltd,20201030.0,48360,9781801188647
+9,"Practical Fraud Prevention (Fraud and AML Analytics for Fintech and eCommerce, using SQL and Python)",,"O&#39;Reilly Media, Inc, USA",20220430.0,80170,9781492093329
+10,"Sams Teach Yourself PHP, MySQL and Apache All in One","Meloni, Julie C.",Macmillan Computer,20210101.0,52000,9780672329760
+11,Seven Databases in Seven Weeks: A Guide to Modern Databases and the Nosql Movement (A Guide to Modern Databases and the Nosql Movement),,Pragmatic Bookshelf,20171125.0,71250,9781680502534
+12,Real World SQL and Pl/Sql: Advice from the Experts (Advice from the Experts),,McGraw-Hill Education,20160822.0,77290,9781259640971
+13,SQL in a Nutshell: A Desktop Quick Reference Guide,"Kline, Kevin",O&#39;Reilly,20100601.0,77460,9780596518844
+14,Professional Microsoft SQL Server 2008 Programming,"Vieira, Rob",Wiley,20090723.0,0,9780470257029
+15,Practical Guide to Using SQL in Oracle (Paperback),Earp,Wordware Publishing,20080905.0,35000,9781598220636
+16,Oracle Pl/SQL Performance Tuning Tips & Techniques,McGraw-Hill/Osborne Media,McGraw-Hill/Osborne Media,20140813.0,78030,9780071824828
+17,"McSa/McSe/McDba Self-Paced Training Kit, 2/e 양장","Rabeler, Carl  McSe Training Kit : Microsoft SQL S",Microsoft,,0,9780735619616
+18,Oracle Database 11g & MySQL 5.6 Developer Handbook,"McLaughlin, Michael",McGraw-Hill/Osborne Media,20111014.0,74300,9780071768856
+19,The Definitive Guide to Mongodb: The Nosql Database for Cloud and Desktop Computing (The Nosql Database for Cloud and Desktop Computing),"Membrey, Peter/Thielen, Wouter/Plugge, Eelco",Apress,20100926.0,85640,9781430230519
+20,Microsoft SQL Server 2008 Administrator’s Pocket Consultant,"Stanek, William R.",Microsoft,20210101.0,0,9780735625891
+21,"Microsoft SQL Server 2016 Reporting Services, Fifth Edition",,McGraw-Hill Education,20161105.0,78030,9781259641503
+22,"Joe Celko’s Data, Measurements and Standards in SQL","Celko, Joe",Morgan Kaufmann,20090930.0,91260,9780123747228
+23,Mastering Phpmyadmin for Effective MySQL Management,,Packt Publishing,20040430.0,51630,9781904811039
+24,"Professional ADO.NET 2 (Programming with SQL Server 2005, Oracle, and MySQL)",,WROX Press,20051005.0,60000,9780764584374
+25,SQL- a Simple Introduction by Cliff: SQL Beginnings,,Outskirts Press,20141010.0,51560,9781478724506
+26,"Learn PHP 8: Using Mysql, Javascript, Css3, and Html5",,Apress,20201101.0,65230,9781484262399
+27,T-SQL Window Functions: For Data Analysis and Beyond,,Microsoft Pr,20200106.0,65230,9780135861448
+28,"Proc SQL: Beyond the Basics Using SAS, Third Edition",,SAS Institute,20190320.0,110100,9781635266849
+29,"Proc SQL: Beyond the Basics Using SAS, Third Edition",,SAS Institute,20190320.0,142820,9781642951929
+30,Applied Microsoft SQL Server 2008 Reporting Services (A Guide to the Leading Reporting Platform),,Prologika Press,20080815.0,64950,9780976635314
+31,Foundations of SQL Server 2005 Business Intelligence,"Langit, Lynn",Apress,20070423.0,81540,9781590598344
+32,Beginning PHP and MySQL: From Novice to Professional (From Novice to Professional),Jason Gilmore,Apress,20100915.0,99920,9781430231141
+33,Advanced Oracle SQL Tuning: The Definitive Reference,,Rampant Techpress,20140305.0,77960,9780991638604
+34,Beginning Transact-SQL with SQL Server 2000 and 2005,,WROX Press,20051001.0,49000,9780764579554
+35,(Step by Step) Microsoft SQL Server 2000 Programming,,Microsoft Press,20001101.0,61750,9780735611429
+36,"Learning SQL: Generate, Manipulate, and Retrieve Data",,O&#39;Reilly Media,20200430.0,89150,9781492057611
+37,Joe Celko’s Trees and Hierarchies in SQL for Smarties,,Morgan Kaufmann,20120101.0,72090,9780123877338
+38,SQL for Data Analytics - Third Edition: Harness the power of SQL to extract insights from data,,Packt Publishing,20220829.0,73380,9781801812870
+39,Professional Microsoft SQL Server 2008 Administration,,John Wiley & Sons Inc,20081103.0,96600,9780470247969
+40,Essential SQL Server 2000: An Administration Handbook,,Addison-Wesley Professional,20011201.0,59430,9780201742039
+41,Learn SQL Server Administration in a Month of Lunches,,Manning Publications,20140512.0,57060,9781617292132
+42,Beginning SQL Server 2000 for Visual Basic Developers,,Apress,20030901.0,65230,9781590592731
+43,Microsoft SQL Server 2000 Database Design and Implementation,Microsoft Official Academic Course Staff,Microsoft,20030604.0,0,9780735619609
+44,Getting Started with SQL Server 2012 Cube Development,,Packt Publishing,20130715.0,61542,9781849689502
+45,Professional Microsoft SQL Server 2012 Administration,Jorgensen,Wrox,20120424.0,41340,9781118106884
+46,Microsoft SQL Server 2008 All-in-One Desk Reference For Dummies,"Schneider, Robert D.",John Wiley & Sons Inc,20080929.0,59430,9780470179543
+47,MySQL Reference Manual: Documentation from the Source,"Widenius, Michael/ Axmark, David/ Mysql Ab (Cor)",O&#39;Reilly Media,20020601.0,74290,9780596002657
+48,Inside Microsoft SQL Server 2005 : T-sql Querying 반양장,"Ben-gan, Itzik/ Kollar, Lubor/ Sarka, Dejan",Microsoft,20060510.0,0,9780735623132
+49,"Dynamische Webseiten: Einstieg in Html, PHP Und MySQL",,Books on Demand,20121030.0,23930,9783837066111
+50,Professional Microsoft SQL Server 2014 Administration,,Wrox Press,20140829.0,70660,9781118859131
+51,MCSA Guide to Microsoft SQL Server 2012 (Exam #70-462) ((Exam 70-462)),,Cengage Learning,20130531.0,301220,9781133131076
+52,SQL Server and Power Pivot - Tabular Modeling Cookbook,,Packt Publishing,20130930.0,61160,9781782170884
+53,"Setting Up Lamp: Getting Linux, Apache, MySQL, and PHP Working Together (Getting Linux, Apache, MySQL, and PHP Working Together)","Rosebrock, Eric/ Filson, Eric",Sybex,20040701.0,51990,9780782143379
+54,Transact SQL desk Reference : For Microsoft SQL Server,,Prentice Hall PTR,20031101.0,36000,9780130293398
+55,Oracle and Pl/SQL Recipes: A Problem-Solution Approach (A Problem-Solution Approach),"Juneau, Josh; Arena,",Apress,20101227.0,79000,9781430232070
+56,SQL Server 2005 Practical Troubleshooting: The Database Engine (The Database Engine),"Henderson, Ken (EDT)",Addison-Wesley Professional,20061229.0,89150,9780321447746
+57,Microsoft SQL Server 2005 Integration Services Step by Step 반양장,"Turley, Paul/ Kasprzak, Joe/ Cameron, Scott/ Iizuk",Microsoft,20070620.0,0,9780735624054
+58,Mastering Phpmyadmin for Effective MySQL Management 2e,,Packt Publishing,20061030.0,60230,9781847191601
+59,"SQL: The Complete Reference, Second Edition with CDROM",,Osborne/McGraw-Hill,20020801.0,93610,9780072225594
+60,Practical SQL Queries for Microsoft SQL Server 2008 R2,,McGraw-Hill/Osborne Media,20101014.0,67710,9780071746878
+61,"Sams Teach Yourself PHP, MySQL And Apache All in One, 3/e","Meloni, Julie C.",Sams,20210101.0,0,9780672328732
+62,Joe Celko’s Trees and Hierarchies in SQL for Smarties 반양장,"Celko, Joe",Morgan Kaufman,20210101.0,0,9781558609204
+63,"Computer Programming JavaScript, Python, HTML, SQL, CSS",,Draft2Digital,20190729.0,43020,9798201348670
+64,"Php, MySQL & JavaScript All in One, Sams Teach Yourself",,Sams,20171020.0,57340,9780672337703
+65,Expert PL/SQL Practices: For Oracle Developers and Dbas (For Oracle Developers and Dbas),"Rosenblum, Michael",Apress,20110905.0,99920,9781430234852
+66,Beginning SQL Server Modeling: Model-Driven Application Development in SQL Server 2008 (Model-driven Application Development in SQL Server 2008),,Springer-Verlag New York Inc,20100630.0,71960,9781430227519
+67,Foundations of SQL Server 2008 R2 Business Intelligence,"Fouche, Guy",Apress,20110330.0,71340,9781430233244
+68,"DB2 SQL Procedural Language for Linux, Unix and Windows",,Prentice Hall,20021224.0,42000,9780131007727
+69,Hands-on Microsoft SQL Server 2005 Integration Services,"Nanda, Ashwani",McGraw-Hill Osborne Media,20060801.0,83230,9780072263190
+70,Professional SQL Server Analysis Services 2005 with MDX,,WROX Press,20060515.0,74290,9780764579189
+71,PHP Programming with MySQL: The Web Technologies Series,,Cengage Learning,20100112.0,231170,9780538745840
+72,The Red Gate Guide to SQL Server Team-Based Development,,Simple Talk Publishing,20101115.0,33390,9781906434595
+73,"Mastering The Faster Web with PHP, MySQL, and JavaScript",,Packt Publishing,20180607.0,68850,9781788392211
+74,"Sams Teach Yourself PHP, MySQL and Apache All in One 반양장","Meloni, Julie",Sams,20120608.0,0,9780672335433
+75,Introducing Microsoft SQL Server 2005 for Developers 반양장,"Debetta, Peter",Microsoft,,0,9780735619623
+76,Mitigar Inyecciones SQL Con Tecnicas de Mineria de Datos,,KS OmniScriptum Publishing,20120407.0,65420,9783848470600
+77,Mastering Phpmyadmin 2.11 for Effective MySQL Management,"Delisle, Marc",Packt Publishing,20080331.0,60230,9781847194183
+78,Php Mysql Website Programming : Problem - Design - Solution,"Lea, Chris/ Buzzard, Mike/ White-Cinis, Jessey/ Th",Springer,20210101.0,81540,9781590591505
+79,Microsoft SQL Server 2005 Reporting Services Step by Step 폼북(Foambook),"Misner, Stacia",Microsoft,20210101.0,0,9780735622500
+80,"Learning PHP, MySQL & JavaScript With jQuery, CSS & HTML5 (동적인 소셜 웹 개발을 위한 6가지 핵심 기술)",로빈 닉슨,에이콘출판,20160923.0,45000,9788960779006
+81,Advanced Oracle PL/SQL Developer’s Guide - Second Edition,,Packt Publishing,20160215.0,103290,9781785284809
+82,Jump Start MySQL: Master the Database That Powers the Web,,Sitepoint,20150423.0,39080,9780992461287
+83,Professional Microsoft SQL Server 2012 Reporting Services,"Turley, Paul",WROX Press,20111220.0,47640,9781118101117
+84,Professional Microsoft SQL Server 2008 Reporting Services,"Turley, Paul/ Silva, Thiago/ Smith, Bryan C./ With",John Wiley & Sons,20081222.0,89170,9780470242018
+85,MySQL Troubleshooting: What to Do When Queries Don’t Work,Sveta Smirnova,Oreilly & Associates Inc,20120222.0,39240,9781449312008
+86,Microsoft SQL Server 2012 Analysis Services: The BISM Tabular Model (The Bism Tabular Model),,Microsoft Press,20120726.0,78000,9780735658189
+87,Exist: A Nosql Document Database and Application Platform,,O&#39;Reilly Media,20141225.0,58500,9781449337100
+88,Microsoft SQL Server 2012 Integration Services: An Expert Cookbook,,Packt,20120531.0,77460,9781849685245
+89,Hitchhiker’s Guide to SQL Server Reporting Services 2000 반양장,"Blackburn, Peter/ Vaughn, William R.",Addison-Wesley,20210101.0,0,9780321268280
+90,"Learning Php, MySQL & JavaScript: With Jquery, CSS & Html5 (With Jquery, Css & Html5)",,Oreilly & Associates Inc,20180603.0,74290,9781491978917
+91,Beginning SQL Server 2000 DBA: From Novice to Professional,,Apress,20040101.0,81540,9781590592939
+92,First Look at Microsoft SQL Server 2005 for Developers 반양장,"Beauchemin, Bob/ Berglund, Niels/ Sullivan, Dan",Addison-Wesley,20040601.0,0,9780321180599
+93,Pro VS 2005 Reporting Using SQL Server and Crystal Reports,,Apress,20061120.0,106010,9781590596883
+94,Computer Programming for Beginners (Complete Guide for Beginners to Learn and Mastering SQL & C#),,Alex Suzzi International Group Ltd,20201106.0,40040,9781914154201
+95,Getting Started with SQL: A Hands-On Approach for Beginners (A Hands-on Approach for Beginners),,O&#39;Reilly Media,20160305.0,50510,9781491938614
+96,Professional Microsoft SQL Server 2008 Integration Services,"Knight, Brian",Wrox Press,20080919.0,74230,9780470247952
+97,SQL Server Tuning Scripts: Performance Optimization Secrets,,Rampant Techpress,20140527.0,41530,9780991638673
+98,Troubleshooting SQL Server - A Guide for the Accidental DBA,,Bertrams,20110926.0,53480,9781906434786
+99,Professional Microsoft SQL Server 2014 Integration Services,,Wrox Press,20140411.0,81660,9781118850879
+0,Performance Tuning with SQL Server Dynamic Management Views,,Red gate books,20100430.0,44560,9781906434472
+1,"Expert Oracle SQL: Optimization, Deployment, and Statistics",,Apress,20140917.0,114190,9781430259770
+2,Data Mining with Microsoft SQL Server 2000 Technical Reference,"Seidman, Claude",Microsoft,20210101.0,61750,9780735612716
+3,Dominar Phpmyadmin Para Una Administracion Efectiva de MySQL,,Packt Publishing,20070220.0,51630,9781904811985
+4,Microsoft SQL Server 2000 Performance Tuning Technical Reference 반양장,"Deluca, Adrien Steve",Microsoft,20010803.0,61750,9780735612709
+5,Oracle Database Administration for Microsoft SQL Server DBAs,,Oracle Press,20100907.0,65670,9780071744317
+6,Introducing MySQL Shell: Administration Made Easy with Python (Administration Made Easy With Python),,Apress,20191128.0,65230,9781484250822
+7,Oracle SQL Developer Data Modeler for Database Design Mastery,,McGraw-Hill/Osborne Media,20150518.0,89170,9780071850094
+8,Build Your Own Database Driven Web Site Using PHP & MYSQL 반양장,"Yank, Kevin",SitePoint,20090601.0,0,9780980576818
+9,Getting Started with Impala: Interactive SQL for Apache Hadoop,,O&#39;Reilly Media,20141005.0,30220,9781491905777
+10,Microsoft SQL Server 2005 Performance Optimization and Tuning Handbook,,Digital Press,20070430.0,120620,9781555583194
+11,Microsoft(r) SQL Server 2008 R2 Analytics & Data Visualization,,McGraw-Hill/Osborne Media,20081029.0,74290,9780071601436
+12,"High Performance MySQL: Optimization, Backups, and Replication (Optimization, Backups, and Replication)","Schwartz, Baron",O&#39;Reilly Media,20120330.0,82820,9781449314286
+13,SQL for Data Analysis: Advanced Techniques for Transforming Data Into Insights,,O&#39;Reilly Media,20211221.0,89150,9781492088783
+14,Professional Azure SQL Database Administration - Second Edition,,Packt Publishing,20190710.0,77460,9781789802542
+15,Professional SQL Server High Availability and Disaster Recovery,,Packt Publishing,20190130.0,68850,9781789802597
+16,Beginning PHP and MySQL E-Commerce: From Novice to Professional (From Novice to Professional),"Balanescu, Emilian",Apress,20070723.0,97850,9781590598641
+17,MySQL High Availability: Tools for Building Robust Data Centers (Tools for Building Robust Data Centers),O&#39;Reilly Media,O&#39;Reilly Media,20130922.0,65160,9781449339586
+18,"The Guru’s Guide to SQL Server Stored Procedures, XML, and Html (Digital Carrier)",,Addison-Wesley Professional,20011201.0,104010,9780201700466
+19,Professional Microsoft SQL Server 2012 Integration Services 반양장,"Knight, Brian",Wrox Press,20120327.0,41340,9781118101124
+20,SQL Antipatterns: Avoiding the Pitfalls of Database Programming (Avoiding the Pitfalls of Database Programming),,Pragmatic Bookshelf,20100625.0,45490,9781934356555
+21,jOOQ Masterclass: A practical guide for Java developers to write SQL queries for complex database interactions,,Packt Publishing,20220819.0,81540,9781800566897
+22,"손에 잡히는 실전 비즈니스 인텔리전스 (Power BI, 엑셀, D3.js, R, 파이썬, Qlik, Tableau, Microsoft SQL Server)",아메드 셰리프,에이콘출판,20170428.0,27000,9788960779426
+23,"Oracle Database 10g XML & SQL: Design, Build, & Manage XML Applications in Java, C, C++, & PL/SQL (Design, Build & Manage Xml Applications in Java, C, C++ & Pl/SQL)",,Osborne/McGraw-Hill,20040701.0,102540,9780072229523
+24,MDX with Microsoft SQL Server 2008 R2 Analysis Services Cookbook,"Piasevoli, Tomislav",Packt Publishing,20110725.0,71340,9781849681308
+25,"Beginning PHP and MySQL 5, 2/e : From Novice to Professional 반양장","Gilmore, Jason W.",Apress,20060130.0,0,9781590595527
+26,.Net Enterprise Design with Visual Basic.Net and SQL Server 2000,,Sams,20011201.0,81720,9780672322334
+27,"Oracle Pl/SQL for Dbas: Security, Scheduling, Performance & More",,O&#39;Reilly Media,20050901.0,66860,9780596005870
+28,Practical PHP and MySQL Website Databases: A Simplified Approach (A Simplified Approach),,Springer,20131231.0,72010,9781430260769
+29,SQL Server on Azure Virtual Machines: A hands-on guide to provisioning Microsoft SQL Server on Azure VMs (A hands-on guide to provisioning Microsoft SQL Server on Azure VMs),"West, Randolph^Davidson, Louis^Hirt, Allan",Packt Publishing,20200603.0,86070,9781800204591
+30,Pentaho Solutions (Business Intelligence and Data Warehousing With Pentaho and Mysql),"Bouman, Roland/ Van Dongen, Jos",John Wiley & Sons,20090814.0,49000,9780470484326
+31,The Essential PROC SQL Handbook for SAS Users (Hardcover edition),,SAS Institute Inc.,20050519.0,247850,9781642956412
+32,Pro SQL Server 2012 Relational Database Design and Implementation,,Apress,20111205.0,85630,9781430236955
+33,Oracle Tuning Power Scripts : With 100+ High Performance SQL Scripts,"Conway, Harry/ Ault, Mike/ Burleson, Donald",Independent,20210101.0,0,9780974448671
+34,Microsoft Transact-Sql: The Definitive Guide: The Definitive Guide (The Definitive Guide),,Jones & Bartlett Publishers,20100521.0,67730,9780763784164
+35,PostgreSQL 8.4 Official Documentation - Volume I. The SQL Language,,Fultus Corporation,20090801.0,60230,9781596821583
+36,Creating Your MySQL Database: Practical Design Tips and Techniques,,Packt Publishing,20061125.0,22780,9781904811305
+37,PostgreSQL 9.0 Official Documentation - Volume I. the SQL Language,,Fultus Corporation,20110310.0,57060,9781596822467
+38,PHP & Mysql: Novice to Ninja: Get Up to Speed with PHP the Easy Way (Get Up to Speed With Php the Easy Way),,Oreilly & Associates Inc,20171025.0,59360,9780994346988
+39,Oracle Tuning Power Scripts: With 100+ High Performance SQL Scripts,,Rampant Techpress,20140306.0,36600,9780991638642
+40,"Predictive Analytics Using Oracle Data Miner: Develop & Use Data Mining Models in Oracle Data Miner, SQL & Pl/SQL (Develop & Use Data Mining Models in Oracle Data Miner, SQL & PL/SQL)",,McGraw-Hill/Osborne Media,20140805.0,110550,9780071821674
+41,The Real MCTS SQL Server 2008 Exam 70-433 Prep Kit: Database Design (Database Design),"Horninger, Mark",Elsevier Science Ltd,20090313.0,93550,9781597494212
+42,Test Yourself MCDBA SQL Server TM 2000 Administration (Exam 70-228),,McGraw-Hill Companies,20011101.0,54980,9780072134438
+43,SQL: The Ultimate Expert Guide to Learn SQL Programming Step by Step,,Nelly B.L. International Consulting Ltd.,20200208.0,34410,9781647710675
+44,"Delivering Business Intelligence with Microsoft SQL Server 2012, 3/E","Larson, Brian",McGraw-Hill Osborne,20120316.0,44650,9780071759380
+45,Introduction to Sql : Mastering the Relational Database Language 반양장,"Lans, Rick F. Van Der",Addison-Wesley,19991101.0,0,9780201596182
+46,Introduction to SQL : Mastering the Relational Database Language 반양장,"van der Lans, Rick F.",Addison-Wesley,20060926.0,0,9780321305961
+47,Designing Sql Server 2000 Databases for .Net Enterprises Servers 반양장,"Syngress Media, Inc",syngress,20010222.0,56780,9781928994190
+48,Ein strukturierter Einstieg in die Oracle SQL und PL/SQL-Entwicklung,,Books on Demand,20131128.0,68690,9783848258239
+49,Pro SQL Server 2000 Database Design: Building Quality Oltp Databases,,Apress,20040201.0,81540,9781590593028
+50,Microsoft SQL Server 2014 Business Intelligence Development Beginner’s Guide (Business Intelligence Development Beginner’s Guide),,Packt Publishing,20140518.0,69723,9781849688888
+51,Beginner Database Design & SQL Programming Using Microsoft SQL Server,,Createspace,20120912.0,32650,9781479302437
+52,Oracle Pl/SQL Best Practices: Write the Best Pl/SQL Code of Your Life,"Feuerstein, Steven",O&#39;Reilly,20100601.0,51630,9780596514105
+53,Practical DMX Queries for Microsoft SQL Server Analysis Services 2008,,McGraw-Hill/Osborne Media,20100917.0,83300,9780071748667
+54,MCDBA SQL Server 7 Administration Study Guide (Exam70-28) (BK+CD) 반양장,Syngress,McGraw-Hill,19990130.0,0,9780072119046
+55,Beginning SQL Server 2008 for Developers: From Novice to Professional (From Novice to Professional),"Dewson, Robin",Apress,20080311.0,81540,9781590599587
+56,Microsoft SQL Server 2008 High Availability with Clustering & Database Mirroring,"Otey, Michael",McGraw-Hill,20091217.0,62410,9780071498135
+57,Professional Microsoft SQL Server Analysis Services 2008 With MDX 반양장,"Harinath, Sivakumar/ Carroll, Matt/ Meenakshisunda",Wiley,20090519.0,0,9780470247983
+58,MDX Solutions: With Microsoft SQL Server Analysis Services 2005 and Hyperion Essbase (With Microsoft SQL Server Analysis Services 2005 And Hyperion Essbase),"Spofford, George/ Harinath, Sivakumar/ Webb, Chris",John Wiley & Sons Inc,20051201.0,104030,9780471748083
+59,SQL for Data Scientists: A Beginner’s Guide for Building Datasets for Analysis,,Wiley,20210803.0,74300,9781119669364
+60,Developpement web pour un site dynamique interne avec php/mysql/oracle,,OmniScriptum GmbH & Co KG,20180228.0,120520,9786131578021
+61,Graph Data Modeling for NoSQL and SQL: Visualize Structure and Meaning (Visualize Structure and Meaning),,"Technics Publications, LLC",20160912.0,103210,9781634621212
+62,SQL Server Ce Database Development With the .Net Compact Framework 반양장,"Tiffany, Rob",Springer,20031201.0,72410,9781590591192
+63,"Database Design and Programming with Access, SQL, Visual Basic and ASP",,McGraw-Hill College,20020901.0,91870,9780077099862
+64,Oracle Pl/SQL Programming: Covers Versions Through Oracle Database 12c,"Feuerstein, Steven",O&#39;Reilly Media,20140702.0,102800,9781449324452
+65,The Guru’s Guide to SQL Server Architecture and Internals [With CDROM],"Henderson, Ken",Addison-Wesley Professional,20031001.0,132410,9780201700473
+66,Pro Oracle SQL Development: Best Practices for Writing Advanced Queries (Best Practices for Writing Advanced Queries),,Apress,20190808.0,81540,9781484245163
+67,"Hands-On Microsoft SQL Server 2008 Integration Services, Second Edition",Nanda Ashwani,McGraw-Hill/Osborne Media,20100805.0,85840,9780071736404
+68,SQL Server DMVs in Action: Better Queries with Dynamic Management Views (Better Queries With Dynamic Management Views),"Stirk, Ian W.",Manning Publications,20110328.0,84520,9781935182733
+69,Oracle Nosql Database: Real-Time Big Data Management for the Enterprise (Real-Time Big Data Management for the Enterprise),Maqsood Alam,McGraw-Hill/Osborne Media,20131225.0,65020,9780071816533
+70,Knight’s Microsoft SQL Server 2012 Integration Services 24-Hour Trainer,,John Wiley & Sons Inc,20121116.0,64950,9781118479582
+71,Joe Celko’s Complete Guide to Nosql: What Every SQL Professional Needs to Know about Non-Relational Databases (What Every SQL Professional Needs to Know About Nonrelational Databases),,Morgan Kaufmann,20131017.0,73320,9780124071926
+72,MySQL 8 Query Performance Tuning: A Systematic Method for Improving Execution Speeds,,Apress,20200317.0,54260,9781484255834
+73,SQL: The Ultimate Beginner’s Guide to Learn SQL Programming Step by Step,,Nelly B.L. International Consulting Ltd.,20191205.0,48190,9781647710026
+74,"Learning Php, MySQL & JavaScript: A Step-By-Step Guide to Creating Dynamic Websites",,O&#39;Reilly Media,20210914.0,89150,9781492093824
+75,Expert Cube Development with Microsoft SQL Server 2008 Analysis Services,"Webb, Chris/Russo, Marco/Ferrari, Alberto",Packt Publishing,20080701.0,71340,9781847197221
+76,Smart Business Intelligence Solutions with Microsoft SQL Server 2008 반양장,"Langit, Lynn/ Goff, Kevin S./ Mauri, Davide/ Malik",.,20090207.0,0,9780735625808
+77,"Getting Started with CockroachDB (A guide to using a modern, cloud-native, and distributed SQL database for your data-intensive apps)",,Packt Publishing Limited,20220311.0,60120,9781800560659
+78,Professional Microsoft SQL Server 2012 Analysis Services with MDX and DAX,,John Wiley & Sons,20120928.0,57820,9781118101100
+79,Learning Apache Drill: Query and Analyze Distributed Data Sources with SQL (Query and Analyze Structured Data),,O&#39;Reilly Media,20181117.0,89150,9781492032793
+80,Beginner Database Design & SQL Programming Using Microsoft SQL Server 2012,,Createspace,20120901.0,32650,9781479156047
+81,"Trino: The Definitive Guide: SQL at Any Scale, on Any Storage, in Any Environment",,O&#39;Reilly Media,20210511.0,104010,9781098107710
+82,MCTS SQL Server 2005 Implementation & Maintenance Study Guide (Exam 70-431),"Carpenter, Tom",McGraw-Hill,20060826.0,57300,9780072263213
+83,"Professional SQL Server 2005 CLR Stored Procedures, Functions, and Triggers 반양장 (with Stored Procedures, Functions, Triggers, Aggregates and Types)","Comingore, Derek",Wiley,20210101.0,36000,9780470054031
+84,Professional Microsoft SQL Server 2016 Reporting Services and Mobile Reports,,Wrox Pr Inc,20170104.0,61150,9781119258353
+85,"NOSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software (Bringing Together Data, Semantics, and Software)",,"Technics Publications, LLC",20160401.0,68780,9781634621090
+86,"Apache, MySQL, and PHP Web Development All-In-One Desk Reference for Dummies (7 Books in 1)",,For Dummies,20031205.0,74290,9780764549694
+87,Advanced Oracle SQL Programming: The Expert Guide to Writing Complex Queries (Expert Guide to Writing Complex Queries),"Schneider, Laurent",Rampant Techpress,20081201.0,59360,9780977671588
+88,NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence,Fowler,Prentice Hall,20130101.0,21810,9780321826626
+89,MCTS 70-431 Exam Cram : Implementing and Maintaining MS SQL Server 2005 Exam,"Moore, Thomas",Que,20060731.0,0,9780789735881
+90,Ultra-Fast ASP.NET: Building Ultra-Fast and Ultra-Scalable Websites Using ASP.NET and SQL Server (Building Ultra-fast and Ultra-scalable Websites Using Asp.net and SQL Server),"Kiessig, Richard",Springer-Verlag New York Inc,20091001.0,81540,9781430223832
+91,"Joe Celko’s Thinking in Sets: Auxiliary, Temporal, and Virtual Tables in SQL","Celko, Joe",Morgan Kaufmann,20080205.0,55370,9780123741370
+92,Microsoft Sql Server : Planning and Building a High Performance Database 반양장,"Schneider, Robert D.",Prentice Halll,19970101.0,0,9780132662222
+93,Microsoft SQL Server Reporting Services Recipes for Designing Expert Reports,,WROX Press,20100319.0,49000,9780470563113
+94,SQL Programming The Ultimate Step-By-Step Guide to Learning SQL for Beginners,,Tyler MacDonald,20191225.0,34330,9781951764296
+95,SQL Programming The Ultimate Step-By-Step Guide to Learning SQL for Beginners,,Tyler MacDonald,20191225.0,39490,9781951764289
+96,Programacion de bases de datos a traves de Microsoft SQL Server. TRANSACT SQL,,Lulu.com,20190502.0,44670,9781716878718
+97,Beginning MySQL Database Design and Optimization: From Novice to Professional (From Novice to Professional),,Apress,20041130.0,73380,9781590593325
+98,SQL Server Internals: In-Memory Oltp: Inside the SQL Server 2016 Hekaton Engine,,Red Gate Books,20171016.0,44560,9781910035207
+99,"Delivering Business Intelligence with Microsoft SQL Server 2016, Fourth Edition",,McGraw-Hill Education,20161022.0,74300,9781259641480
+0,Writing Stored Procedures with Microsoft SQL Server: The Authoritative Solution,,Sams,20000101.0,59430,9780672318863
+1,"SQL: 3 books in 1 - The Ultimate Beginners, Intermediate and Expert Guide to Master SQL Programming",,Nelly B.L. International Consulting Ltd.,20200306.0,0,9781647710804
+2,Learn SQL Database Programming: Query and manipulate databases from popular relational database servers using SQL (Query and manipulate databases from popular relational database servers using SQL),"Bush, Josephine",Packt Publishing,20200529.0,68850,9781838984762
+3,"Datenbanken Und SQL: Eine Praxisorientierte Einfuhrung Mit Anwendungen in Oracle, SQL Server Und MySQL (Eine Praxisorientierte Einf?rung Mit Anwendungen in Oracle, SQL Server Und Mysql)",,Springer Vieweg,20140528.0,57690,9783834817327
+4,Learning MySQL and Mariadb: Heading in the Right Direction with MySQL and Mariadb,O&#39;Reilly Media,O&#39;Reilly Media,20150410.0,65080,9781449362904
+5,Microsoft SQL Server 2005: The Complete Reference: Full Coverage of All New and Improved Features,"Shapiro, Jeffrey",McGraw-Hill,20060930.0,86190,9780072261523
+6,Training Kit (Exam 70-461) Querying Microsoft SQL Server 2012 (McSa) [With CDROM] (Exam 70-461 Training Kit),Itzik Ben-Gan,Microsoft Press,20121212.0,91230,9780735666054
+7,Mcitp : Microsoft SQL Server 2005 Database Administrator Study Guide (70-443) 반양장,"Tschanz, David W.",Wiley,20060919.0,0,9780470047446
+8,SQL Server 2012 Data Integration Recipes: Solutions for Integration Services and Other Etl Tools (Solutions for Integration Services and Other ETL Tools),,Apress,20121116.0,114190,9781430247913
+9,"Learn SQL Quickly: A Beginner’s Guide to Learning SQL, Even If You’re New to Databases",,Drip Digital,20201109.0,25630,9781951791780
+10,"SQL Server 2017 Machine Learning Services with R: Data exploration, modeling, and advanced analytics",,Packt Publishing,20180228.0,68850,9781787283572
+11,Mongodb Applied Design Patterns: Practical Use Cases with the Leading Nosql Database,"Copeland, Rick",O&#39;Reilly Media,20130319.0,45480,9781449340049
+12,"Computational Biology (A Practical Introduction to BioData Processing and Analysis with Linux, MySQL, and R)",Robbe Wunschiers,Springer,20131115.0,201610,9783642347481
+13,MCTS Self-Paced Training Kit (70-431) : Implementing and Maintaining MS SQL Svr 2005 반양장,Solid Quality Learning Staff,Microsoft,20210101.0,0,9780735622715
+14,"The Definitive Guide to Dax: Business Intelligence for Microsoft Power Bi, SQL Server Analysis Services, and Excel (Business Intelligence with Microsoft Excel, SQL Server Analysis Services, and Power Bi)","Russo, Marco^Ferrari, Alberto",Microsoft Pr,20190801.0,81720,9781509306978
+15,"The Definitive Guide to Dax: Business Intelligence with Microsoft Excel, SQL Server Analysis Services, and Power Bi (Business Intelligence with Microsoft Excel, SQL Server Analysis Services, and Power BI)",,Microsoft Press,20151023.0,71100,9780735698352
+16,Managing & Using MySQL: Open Source SQL Databases for Managing Information & Web Sites,"Reese, George.",O&#39;Reilly Media,20020401.0,59430,9780596002114
+17,Expert Cube Development with SQL Server Analysis Services 2012 Multidimensional Models,,Packt Publishing,20140221.0,55420,9781849689908
+18,SQL Database Programming: The Ultimate Guide to Learning SQL Database Programming Fast!,,Ingram Publishing,20191217.0,25800,9781761030222
+19,A Developer’s Guide to Data Modeling for SQL Server : Covering SQL Server 2005 and 2008,"Johnson, Eric/ Jones, Joshua",Addison-Wesley,20080624.0,0,9780321497642
+20,MySQL Stored Procedure Programming: Building High-Performance Web Applications in MySQL,"Harrison, Guy/ Feuerstein, Steven",O&#39;Reilly Media,20060301.0,66860,9780596100896
+21,"Business Analytics with SAS Studio (Deliver Business Intelligence by Combining SQL Processing, Insightful Visualizations, and Various Data Mining Techniques)",,BPB Publications,20220318.0,56730,9789391392734
+22,Microsoft SQL Server: Dise?o y Administraci?n B?sica de Bases de Datos con Transact - SQL,,Lulu.com,20190416.0,44740,9780359594948
+23,Building Integrated Business Intelligence Solutions with SQL Server 2008 R2 & Office 2010,,McGraw-Hill/Osborne Media,20100805.0,65480,9780071716734
+24,Building Performance Dashboards and Balanced Scorecards With SQL Server Reporting Services,,John Wiley & Sons,20131025.0,65160,9781118647196
+25,The Real McTs SQL Server 2008 Exam 70-432 Prep Kit: Database Implementation and Maintenance (Database Implementation and Maintenance),"Horninger, Mark",Elsevier Science Ltd,20090413.0,93550,9781597494205
+26,"MCITP SQL Server 2005 Database Developer All-in-One Exam Guide (Exams 70-431, 70-441 & 70-442)",Darril Gibson,McGraw-Hill,20080515.0,78600,9780071546690
+27,SQL: The Ultimate Beginner’s Step-by-Step Guide to Learn SQL Programming with Hands-On Projects,,El-Gorr International Consulting Limited,20191211.0,61960,9781913470418
+28,SQL: The Ultimate Beginner’s Step-by-Step Guide to Learn SQL Programming with Hands-On Projects,,El-Gorr International Consulting Limited,20191211.0,15470,9781913470432
+29,The SQL Server Dba’s Guide to Docker Containers: Agile Deployment Without Infrastructure Lock-In,,Apress,20200530.0,97850,9781484258255
+30,"Intrusion Detection with Snort: Advanced Ids Techniques Using Snort, Apache, MySQL, PHP, and Acid",,Prentice Hall PTR,20030508.0,66860,9780131407336
+31,SQL Injection Strategies: Practical techniques to secure old vulnerabilities against modern attacks,,Packt Publishing,20200715.0,60230,9781839215643
+32,SQL Server 2016 Developer’s Guide: Build efficient database applications for your organization with SQL Server 2016,,Packt Publishing,20170322.0,103290,9781786465344
+33,Oracle Certified Professional Developer PL SQL Program Units Exam Guide: Prepare to Pass the PL SQL,,McGraw-Hill Osborne,20020401.0,87680,9780072193367
+34,SQL for MySQL Developers: A Comprehensive Tutorial and Reference: A Comprehensive Tutorial and Reference (The Comprehensive Tutorial and Reference),"Van Der Lans, Rick F.",Addison-Wesley,20210101.0,97850,9780131497351
+35,SQL Server 2017 Developer s Guide: A professional guide to designing and developing enterprise database applications,,Packt Publishing,20180315.0,94670,9781788476195
+36,"MCITP SQL Server 2005 Database Administration All-in-One Exam Guide (Exams 70-431, 70-443, & 70-444)",,McGraw-Hill,20071130.0,79500,9780071496094
+37,Learn MongoDB 4.x: A guide to understanding MongoDB development and administration for NoSQL developers,,Packt Publishing,20200904.0,68850,9781789619386
+38,Expert T-SQL Window Functions in SQL Server 2019: The Hidden Secret to Fast Analytic and Reporting Queries,,Apress,20191103.0,65230,9781484251966
+39,The Microsoft Data Warehouse Toolkit : With SQL Server 2005 and the Microsoft Business Intelligence Toolset,,John Wiley & Sons,20060213.0,60000,9780471267157
+40,Training Kit (Exam 70-463) Implementing a Data Warehouse with Microsoft SQL Server 2012 (McSa) [With CDROM] (Training Kit: Exam 70-463),Dejan Sarka,Microsoft Press,20121221.0,91450,9780735666092
+41,"SQL QuickStart Guide: The Simplified Beginner’s Guide to Managing, Analyzing, and Manipulating Data With SQL",,Clydebank Media LLC,20191119.0,60230,9781945051234
+42,"SQL QuickStart Guide: The Simplified Beginner’s Guide to Managing, Analyzing, and Manipulating Data With SQL",,Clydebank Media LLC,20191118.0,43020,9781945051753
+43,"Introducing Microsoft SQL Server 2019: Reliability, scalability, and security both on premises and in the cloud (Reliability, scalability, and security both on premises and in the cloud)","Gorman, Kellyn^Hirt, Allan^Noderer, Dave",Packt Publishing,20200416.0,60230,9781838826215
+44,"Oracle SQL and PL/SQL Handbook: A Guide for Data Administrators, Developers, and Business Analysts [With CDROM] (A Guide for Data Administrators, Developers, and Business Analysts)",,Addison-Wesley Professional,20020801.0,81720,9780201752946
+45,"Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS - And More - The Full Data Scientist Intervi",,Data Science Interview Books,20220106.0,40760,9781915002105
+46,"Machine Learning with BigQuery ML: Create, execute, and improve machine learning models in BigQuery using standard SQL queries",,Packt Publishing,20210611.0,77460,9781800560307
+47,Aviation Manager’s Toolkit (How to Develop Php/Mysql-based Interactive Communication Platform: a Computational Approach to Aviation Maintenance),,Partridge Singapore,20190312.0,80800,9781543749892
+48,Professional Azure SQL Managed Database Administration: Efficiently manage and modernize data in the cloud using Azure SQL,,Packt Publishing,20210226.0,77460,9781801076524
+49,MDX with Microsoft SQL Server 2016 Analysis Services Cookbook - Third Edition: Relevant and powerful new recipes added,,Packt Publishing,20161130.0,94670,9781786460998
+50,"SQL Server 2019 Administrator’s Guide, Second Edition: A definitive guide for DBAs to implement, monitor, and maintain enterprise database solutions (A definitive guide for DBAs to implement, monitor, and maintain enterprise database solutions)","Chmel, Marek^Muzny, Vladimir",Packt Publishing,20200911.0,77460,9781789954326
+51,"최신 Raspberry Pi로 시작하는 IOT의 모든 것: 초보에서 고급까지(하) (라즈베리파이 (Raspberry Pi)와 Linux에서 시작하여 Apache, MySQL, PHP를 거쳐 Embedded Computing, Interface, Sensor를 사용하는 사물인터넷 (IOT)까지 단숨에 정복하기)",김덕규,리얼오메가컨설팅,20160830.0,27000,9788990852045
+52,"최신 Raspberry Pi로 시작하는 IOT의 모든 것: 초보에서 고급까지(상) (라즈베리파이 (Raspberry Pi)와 Linux에서 시작하여 Apache, MySQL, PHP를 거쳐 Embedded Computing, Interface, Sensor를 사용하는 사물인터넷 (IOT)까지 단숨에 정복하기)",김덕규,리얼오메가컨설팅,20160830.0,27000,9788990852038
+53,"Developing Business Intelligence Apps for Sharepoint: Combine the Power of Sharepoint, Lightswitch, Power View, and SQL Server 2012",,O&#39;Reilly Media,20130802.0,65660,9781449320836
+54,"Computer Programming: 4 Books in 1: SQL for Beginners, C# for Beginners, C# for intermediate, Hacking with Kali Linux. Everything you Need f",,Alex Suzzi International Group Ltd,20201103.0,48150,9781914154096
+55,"SQL For Beginners: SQL Made Easy; A Step-By-Step Guide to SQL Programming for the Beginner, Intermediate and Advanced User (Including Pro",,Antony Mwau,20190926.0,20600,9781951737252
+56,"SQL Coding for Beginners: After work guide to start learning SQL on your own. Surprise yourself by discovering how to manage, analyze and manipu",,Francesco Cammardella,20201116.0,34410,9781990151064
+57,Hands-On SQL Server 2019 Analysis Services: Design and query tabular and multi-dimensional models using Microsoft’s SQL Server Analysis Services,,Packt Publishing,20201023.0,77460,9781800204768
+58,"Computer Programming Fundamentals (Coding For Beginners, Coding With Python, SQL Programming For Beginners, Coding HTML. A Complete Guide To Become A Programmer With A Crash Course)",,Lions Corporate Ltd,20201027.0,71820,9781801128797
+59,"The Computer Programming Fundamentals (Coding For Beginners, Coding With Python, SQL Programming For Beginners, Coding HTML. A Complete Guide To Become A Programmer With A Crash Course)",,Lions Corporate Ltd,20201010.0,58450,9781801112109
+60,Beginning SQL Server 2005 Express Database Applications with Visual Basic Express and Visual Web Developer Express: From Novice to Professional (From Novice to Professional),"Dobson, Rick",Apress,20051226.0,81540,9781590595237
+61,Microsoft Certified Master: SQL Server 2008 Exam Preparation Course in a Book for Passing the Microsoft Certified Master: SQL Server 2008 Exam - T,,Emereo Pty Ltd,20110406.0,39040,9781743040591
+62,Professional Azure SQL Database Administration: Equip yourself with the skills you need to manage and maintain your SQL databases on the Microsoft clo,,Packt Publishing,20180726.0,86070,9781789538854
+63,"Web Coding Bible (18 Books in 1 -- HTML, CSS, JavaScript, PHP, SQL, XML, Svg, Canvas, Webgl, Java Applet, ActionScript, Htaccess, Jquery, Wordpress, S",,Chong Lip Phang,20150205.0,83520,9789671317501
+64,"Delivering Business Intelligence with Microsoft SQL Server 2005: Utilize Microsoft’s Data Warehousing, Mining & Reporting Tools to Provide Critical In","Larson, Brian",McGraw-Hill Education,20060113.0,81730,9780072260908
+65,"Up and Running with ClickHouse (Learn and Explore ClickHouse, It’s Robust Table Engines for Analytical Tasks, ClickHouse SQL, Integration with External Applications, and Managing the ClickHouse Server (English Edition))",,LIGHTNING SOURCE UK LTD,19000101.0,56730,9789391392246
